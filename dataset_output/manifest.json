@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 1,
+    "filename": "seal_0001.jpg",
+    "lot": "LOT-AI-2026-0001",
+    "groundTruthBits": "001101001101010111001100101010110010110101111011010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:39.286Z"
+    }
+  },
+  {
+    "id": 2,
+    "filename": "seal_0002.jpg",
+    "lot": "LOT-AI-2026-0002",
+    "groundTruthBits": "111011111000001010010000111111110111110111111011010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:39.407Z"
+    }
+  },
+  {
+    "id": 3,
+    "filename": "seal_0003.jpg",
+    "lot": "LOT-AI-2026-0003",
+    "groundTruthBits": "010110110110001011100010111000010101011100001000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:39.505Z"
+    }
+  },
+  {
+    "id": 4,
+    "filename": "seal_0004.jpg",
+    "lot": "LOT-AI-2026-0004",
+    "groundTruthBits": "110010001000111110010101000011000010100010001011011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:39.770Z"
+    }
+  },
+  {
+    "id": 5,
+    "filename": "seal_0005.jpg",
+    "lot": "LOT-AI-2026-0005",
+    "groundTruthBits": "101110000101100001011001001111011000000101110011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:39.961Z"
+    }
+  },
+  {
+    "id": 6,
+    "filename": "seal_0006.jpg",
+    "lot": "LOT-AI-2026-0006",
+    "groundTruthBits": "000100100101010111110101001000111101011000001100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:40.163Z"
+    }
+  },
+  {
+    "id": 7,
+    "filename": "seal_0007.jpg",
+    "lot": "LOT-AI-2026-0007",
+    "groundTruthBits": "111110100100111001001001110010111000001100000000101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:40.308Z"
+    }
+  },
+  {
+    "id": 8,
+    "filename": "seal_0008.jpg",
+    "lot": "LOT-AI-2026-0008",
+    "groundTruthBits": "011111101011111101101100100011010110110100111000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:40.442Z"
+    }
+  },
+  {
+    "id": 9,
+    "filename": "seal_0009.jpg",
+    "lot": "LOT-AI-2026-0009",
+    "groundTruthBits": "001101110111101100010010001010010110000011000101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:40.565Z"
+    }
+  },
+  {
+    "id": 10,
+    "filename": "seal_0010.jpg",
+    "lot": "LOT-AI-2026-0010",
+    "groundTruthBits": "000101001101100011101110001000011011111110111101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:40.661Z"
+    }
+  },
+  {
+    "id": 11,
+    "filename": "seal_0011.jpg",
+    "lot": "LOT-AI-2026-0011",
+    "groundTruthBits": "011000000011100110010011001011011101000011001111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:40.744Z"
+    }
+  },
+  {
+    "id": 12,
+    "filename": "seal_0012.jpg",
+    "lot": "LOT-AI-2026-0012",
+    "groundTruthBits": "111111010110010111101011000001011110110111110111110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:40.822Z"
+    }
+  },
+  {
+    "id": 13,
+    "filename": "seal_0013.jpg",
+    "lot": "LOT-AI-2026-0013",
+    "groundTruthBits": "000011101111000001001100010010001110110001000001100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:40.903Z"
+    }
+  },
+  {
+    "id": 14,
+    "filename": "seal_0014.jpg",
+    "lot": "LOT-AI-2026-0014",
+    "groundTruthBits": "110001011101001100111011110001010000100010010010111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.003Z"
+    }
+  },
+  {
+    "id": 15,
+    "filename": "seal_0015.jpg",
+    "lot": "LOT-AI-2026-0015",
+    "groundTruthBits": "100111110010011011100011101100001001101111101100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.087Z"
+    }
+  },
+  {
+    "id": 16,
+    "filename": "seal_0016.jpg",
+    "lot": "LOT-AI-2026-0016",
+    "groundTruthBits": "110000100110011001111100100100101011001101110101010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.167Z"
+    }
+  },
+  {
+    "id": 17,
+    "filename": "seal_0017.jpg",
+    "lot": "LOT-AI-2026-0017",
+    "groundTruthBits": "101001000100011101110101011111010000010000111100001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.257Z"
+    }
+  },
+  {
+    "id": 18,
+    "filename": "seal_0018.jpg",
+    "lot": "LOT-AI-2026-0018",
+    "groundTruthBits": "011000110110100011100001011100000010111001000101001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.340Z"
+    }
+  },
+  {
+    "id": 19,
+    "filename": "seal_0019.jpg",
+    "lot": "LOT-AI-2026-0019",
+    "groundTruthBits": "110011010001010001100111001100010010011100000000101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.419Z"
+    }
+  },
+  {
+    "id": 20,
+    "filename": "seal_0020.jpg",
+    "lot": "LOT-AI-2026-0020",
+    "groundTruthBits": "010101100010010010100011010010111001111101011000000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.524Z"
+    }
+  },
+  {
+    "id": 21,
+    "filename": "seal_0021.jpg",
+    "lot": "LOT-AI-2026-0021",
+    "groundTruthBits": "101010101111111110111111101001101101010000111010111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.603Z"
+    }
+  },
+  {
+    "id": 22,
+    "filename": "seal_0022.jpg",
+    "lot": "LOT-AI-2026-0022",
+    "groundTruthBits": "110011000110010101011001111010000001000010110111011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.687Z"
+    }
+  },
+  {
+    "id": 23,
+    "filename": "seal_0023.jpg",
+    "lot": "LOT-AI-2026-0023",
+    "groundTruthBits": "000100011100001000011100101010011001010011010100010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.776Z"
+    }
+  },
+  {
+    "id": 24,
+    "filename": "seal_0024.jpg",
+    "lot": "LOT-AI-2026-0024",
+    "groundTruthBits": "011011100011101110011010110001110001010100010101110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.861Z"
+    }
+  },
+  {
+    "id": 25,
+    "filename": "seal_0025.jpg",
+    "lot": "LOT-AI-2026-0025",
+    "groundTruthBits": "110001101100001100000100000111110100001001100100111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:41.944Z"
+    }
+  },
+  {
+    "id": 26,
+    "filename": "seal_0026.jpg",
+    "lot": "LOT-AI-2026-0026",
+    "groundTruthBits": "111011111101110110110010001001100101011110111101001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:42.031Z"
+    }
+  },
+  {
+    "id": 27,
+    "filename": "seal_0027.jpg",
+    "lot": "LOT-AI-2026-0027",
+    "groundTruthBits": "110001000001101100010001101000010101011010111101110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:42.121Z"
+    }
+  },
+  {
+    "id": 28,
+    "filename": "seal_0028.jpg",
+    "lot": "LOT-AI-2026-0028",
+    "groundTruthBits": "100011100111111111011100111000100010111001100010111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:42.295Z"
+    }
+  },
+  {
+    "id": 29,
+    "filename": "seal_0029.jpg",
+    "lot": "LOT-AI-2026-0029",
+    "groundTruthBits": "010010110100111011001010100110000010101010010101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:42.462Z"
+    }
+  },
+  {
+    "id": 30,
+    "filename": "seal_0030.jpg",
+    "lot": "LOT-AI-2026-0030",
+    "groundTruthBits": "000000101110000011011000111111100100001010100101011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:42.729Z"
+    }
+  },
+  {
+    "id": 31,
+    "filename": "seal_0031.jpg",
+    "lot": "LOT-AI-2026-0031",
+    "groundTruthBits": "010000110100111111000011111010100001110101111110100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:42.886Z"
+    }
+  },
+  {
+    "id": 32,
+    "filename": "seal_0032.jpg",
+    "lot": "LOT-AI-2026-0032",
+    "groundTruthBits": "110010100011101111000010101010010000111100110101010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:43.028Z"
+    }
+  },
+  {
+    "id": 33,
+    "filename": "seal_0033.jpg",
+    "lot": "LOT-AI-2026-0033",
+    "groundTruthBits": "101010011110000111100000100001100101101001011101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:43.141Z"
+    }
+  },
+  {
+    "id": 34,
+    "filename": "seal_0034.jpg",
+    "lot": "LOT-AI-2026-0034",
+    "groundTruthBits": "110110111001110010100000001011011110101110101001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:43.262Z"
+    }
+  },
+  {
+    "id": 35,
+    "filename": "seal_0035.jpg",
+    "lot": "LOT-AI-2026-0035",
+    "groundTruthBits": "110101011110001010011001101000001111110100000111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:43.363Z"
+    }
+  },
+  {
+    "id": 36,
+    "filename": "seal_0036.jpg",
+    "lot": "LOT-AI-2026-0036",
+    "groundTruthBits": "000010111100111001111111100101011110101101111100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:43.443Z"
+    }
+  },
+  {
+    "id": 37,
+    "filename": "seal_0037.jpg",
+    "lot": "LOT-AI-2026-0037",
+    "groundTruthBits": "011000011100111010010011011001100000100111001110010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:43.620Z"
+    }
+  },
+  {
+    "id": 38,
+    "filename": "seal_0038.jpg",
+    "lot": "LOT-AI-2026-0038",
+    "groundTruthBits": "101010001110000101100111011110000001001100110000001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:43.701Z"
+    }
+  },
+  {
+    "id": 39,
+    "filename": "seal_0039.jpg",
+    "lot": "LOT-AI-2026-0039",
+    "groundTruthBits": "110000010110100001100100110111010011001000000010000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:43.782Z"
+    }
+  },
+  {
+    "id": 40,
+    "filename": "seal_0040.jpg",
+    "lot": "LOT-AI-2026-0040",
+    "groundTruthBits": "000011010110010111111110110010101111000001000000001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:43.879Z"
+    }
+  },
+  {
+    "id": 41,
+    "filename": "seal_0041.jpg",
+    "lot": "LOT-AI-2026-0041",
+    "groundTruthBits": "110010010101110101100000101000001101110011011011001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:44.022Z"
+    }
+  },
+  {
+    "id": 42,
+    "filename": "seal_0042.jpg",
+    "lot": "LOT-AI-2026-0042",
+    "groundTruthBits": "110101010001010100101100011001011100000010001100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:44.168Z"
+    }
+  },
+  {
+    "id": 43,
+    "filename": "seal_0043.jpg",
+    "lot": "LOT-AI-2026-0043",
+    "groundTruthBits": "011011001100001001000000001011110100101100010110011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:44.377Z"
+    }
+  },
+  {
+    "id": 44,
+    "filename": "seal_0044.jpg",
+    "lot": "LOT-AI-2026-0044",
+    "groundTruthBits": "101001100111100110011010000000101110111100011110000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:44.546Z"
+    }
+  },
+  {
+    "id": 45,
+    "filename": "seal_0045.jpg",
+    "lot": "LOT-AI-2026-0045",
+    "groundTruthBits": "010001100011100011110010001000001111110010010011100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:44.659Z"
+    }
+  },
+  {
+    "id": 46,
+    "filename": "seal_0046.jpg",
+    "lot": "LOT-AI-2026-0046",
+    "groundTruthBits": "101111011000001110100001010000011111000100110011001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:44.759Z"
+    }
+  },
+  {
+    "id": 47,
+    "filename": "seal_0047.jpg",
+    "lot": "LOT-AI-2026-0047",
+    "groundTruthBits": "100001001010111110101000001001110000110010011001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:44.851Z"
+    }
+  },
+  {
+    "id": 48,
+    "filename": "seal_0048.jpg",
+    "lot": "LOT-AI-2026-0048",
+    "groundTruthBits": "111101100001010100110110011010110000110100101101001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:44.948Z"
+    }
+  },
+  {
+    "id": 49,
+    "filename": "seal_0049.jpg",
+    "lot": "LOT-AI-2026-0049",
+    "groundTruthBits": "000001001111110011000100110100100111101101000111011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.031Z"
+    }
+  },
+  {
+    "id": 50,
+    "filename": "seal_0050.jpg",
+    "lot": "LOT-AI-2026-0050",
+    "groundTruthBits": "000001000111111110111010110001101000111000000100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.112Z"
+    }
+  },
+  {
+    "id": 51,
+    "filename": "seal_0051.jpg",
+    "lot": "LOT-AI-2026-0051",
+    "groundTruthBits": "001110110011100010100110111101111111111110101111100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.215Z"
+    }
+  },
+  {
+    "id": 52,
+    "filename": "seal_0052.jpg",
+    "lot": "LOT-AI-2026-0052",
+    "groundTruthBits": "101011010001000101010111110110100111010010011111010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.304Z"
+    }
+  },
+  {
+    "id": 53,
+    "filename": "seal_0053.jpg",
+    "lot": "LOT-AI-2026-0053",
+    "groundTruthBits": "001011000101001000011001101110001110010111011000010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.382Z"
+    }
+  },
+  {
+    "id": 54,
+    "filename": "seal_0054.jpg",
+    "lot": "LOT-AI-2026-0054",
+    "groundTruthBits": "110001101010011000010010001101101011101111100001100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.453Z"
+    }
+  },
+  {
+    "id": 55,
+    "filename": "seal_0055.jpg",
+    "lot": "LOT-AI-2026-0055",
+    "groundTruthBits": "001011111100111001110110101111101001101000111101001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.524Z"
+    }
+  },
+  {
+    "id": 56,
+    "filename": "seal_0056.jpg",
+    "lot": "LOT-AI-2026-0056",
+    "groundTruthBits": "100001101001000000110100000001110011111101100101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.599Z"
+    }
+  },
+  {
+    "id": 57,
+    "filename": "seal_0057.jpg",
+    "lot": "LOT-AI-2026-0057",
+    "groundTruthBits": "101000111101111110011101101101001111101110001101110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.668Z"
+    }
+  },
+  {
+    "id": 58,
+    "filename": "seal_0058.jpg",
+    "lot": "LOT-AI-2026-0058",
+    "groundTruthBits": "001000010010110011000111101000101101001010010111000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.739Z"
+    }
+  },
+  {
+    "id": 59,
+    "filename": "seal_0059.jpg",
+    "lot": "LOT-AI-2026-0059",
+    "groundTruthBits": "111010100000000101111000010111010110101010001101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.806Z"
+    }
+  },
+  {
+    "id": 60,
+    "filename": "seal_0060.jpg",
+    "lot": "LOT-AI-2026-0060",
+    "groundTruthBits": "101001010101100000100110011110011100001010001100010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.874Z"
+    }
+  },
+  {
+    "id": 61,
+    "filename": "seal_0061.jpg",
+    "lot": "LOT-AI-2026-0061",
+    "groundTruthBits": "111010111101000111100111101001101001111010000111011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:45.949Z"
+    }
+  },
+  {
+    "id": 62,
+    "filename": "seal_0062.jpg",
+    "lot": "LOT-AI-2026-0062",
+    "groundTruthBits": "110111011000111110101001000011001100001001001001000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.032Z"
+    }
+  },
+  {
+    "id": 63,
+    "filename": "seal_0063.jpg",
+    "lot": "LOT-AI-2026-0063",
+    "groundTruthBits": "100110011011000001011010010110110111100111011010001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.104Z"
+    }
+  },
+  {
+    "id": 64,
+    "filename": "seal_0064.jpg",
+    "lot": "LOT-AI-2026-0064",
+    "groundTruthBits": "011100000000111000000011110111100010001011111010001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.179Z"
+    }
+  },
+  {
+    "id": 65,
+    "filename": "seal_0065.jpg",
+    "lot": "LOT-AI-2026-0065",
+    "groundTruthBits": "000100010001000101110101111110110101000111111110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.262Z"
+    }
+  },
+  {
+    "id": 66,
+    "filename": "seal_0066.jpg",
+    "lot": "LOT-AI-2026-0066",
+    "groundTruthBits": "111000011011111101011011010011010001001111000110111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.342Z"
+    }
+  },
+  {
+    "id": 67,
+    "filename": "seal_0067.jpg",
+    "lot": "LOT-AI-2026-0067",
+    "groundTruthBits": "000110000101101100011010000000110001011011001111100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.417Z"
+    }
+  },
+  {
+    "id": 68,
+    "filename": "seal_0068.jpg",
+    "lot": "LOT-AI-2026-0068",
+    "groundTruthBits": "101101011011011010100011000001010111111101100010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.490Z"
+    }
+  },
+  {
+    "id": 69,
+    "filename": "seal_0069.jpg",
+    "lot": "LOT-AI-2026-0069",
+    "groundTruthBits": "010110101000101011100101000010000110011000110111110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.564Z"
+    }
+  },
+  {
+    "id": 70,
+    "filename": "seal_0070.jpg",
+    "lot": "LOT-AI-2026-0070",
+    "groundTruthBits": "100001101111011000101000011101101111100101110010100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.636Z"
+    }
+  },
+  {
+    "id": 71,
+    "filename": "seal_0071.jpg",
+    "lot": "LOT-AI-2026-0071",
+    "groundTruthBits": "111101001011100000001111011100000010100010110000000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.706Z"
+    }
+  },
+  {
+    "id": 72,
+    "filename": "seal_0072.jpg",
+    "lot": "LOT-AI-2026-0072",
+    "groundTruthBits": "100110010110100001110001000000100110110100000101011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.775Z"
+    }
+  },
+  {
+    "id": 73,
+    "filename": "seal_0073.jpg",
+    "lot": "LOT-AI-2026-0073",
+    "groundTruthBits": "111101011101100000110000101110011101010010001110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.843Z"
+    }
+  },
+  {
+    "id": 74,
+    "filename": "seal_0074.jpg",
+    "lot": "LOT-AI-2026-0074",
+    "groundTruthBits": "010001000110101011011101010001010000100001010000101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:46.975Z"
+    }
+  },
+  {
+    "id": 75,
+    "filename": "seal_0075.jpg",
+    "lot": "LOT-AI-2026-0075",
+    "groundTruthBits": "000010111010011110110110100101010011011111111010100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:47.147Z"
+    }
+  },
+  {
+    "id": 76,
+    "filename": "seal_0076.jpg",
+    "lot": "LOT-AI-2026-0076",
+    "groundTruthBits": "001000001111000111110100000010010110011111110111010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:47.356Z"
+    }
+  },
+  {
+    "id": 77,
+    "filename": "seal_0077.jpg",
+    "lot": "LOT-AI-2026-0077",
+    "groundTruthBits": "101001110000001101100100100111001110111011111111010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:47.508Z"
+    }
+  },
+  {
+    "id": 78,
+    "filename": "seal_0078.jpg",
+    "lot": "LOT-AI-2026-0078",
+    "groundTruthBits": "011101000011101001101001010100111101011010011011001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:47.625Z"
+    }
+  },
+  {
+    "id": 79,
+    "filename": "seal_0079.jpg",
+    "lot": "LOT-AI-2026-0079",
+    "groundTruthBits": "001010111011111001010111100101011000100111011111010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:47.713Z"
+    }
+  },
+  {
+    "id": 80,
+    "filename": "seal_0080.jpg",
+    "lot": "LOT-AI-2026-0080",
+    "groundTruthBits": "001100001000101011001010011110111001011010001110111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:47.792Z"
+    }
+  },
+  {
+    "id": 81,
+    "filename": "seal_0081.jpg",
+    "lot": "LOT-AI-2026-0081",
+    "groundTruthBits": "010101101100010000110111000001100100100011100111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:47.868Z"
+    }
+  },
+  {
+    "id": 82,
+    "filename": "seal_0082.jpg",
+    "lot": "LOT-AI-2026-0082",
+    "groundTruthBits": "111000111011110011100010101011100111111100010100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:47.946Z"
+    }
+  },
+  {
+    "id": 83,
+    "filename": "seal_0083.jpg",
+    "lot": "LOT-AI-2026-0083",
+    "groundTruthBits": "010100011001110011100001101010001010110010111010010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:48.029Z"
+    }
+  },
+  {
+    "id": 84,
+    "filename": "seal_0084.jpg",
+    "lot": "LOT-AI-2026-0084",
+    "groundTruthBits": "001000100010101010000111110100110100011111100100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:48.184Z"
+    }
+  },
+  {
+    "id": 85,
+    "filename": "seal_0085.jpg",
+    "lot": "LOT-AI-2026-0085",
+    "groundTruthBits": "101101111011100110011000111011110101111010100110110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:48.371Z"
+    }
+  },
+  {
+    "id": 86,
+    "filename": "seal_0086.jpg",
+    "lot": "LOT-AI-2026-0086",
+    "groundTruthBits": "111010100110010111110101000110011000010001111100001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:48.532Z"
+    }
+  },
+  {
+    "id": 87,
+    "filename": "seal_0087.jpg",
+    "lot": "LOT-AI-2026-0087",
+    "groundTruthBits": "110010000100010111101100101101001010110100110000110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:48.672Z"
+    }
+  },
+  {
+    "id": 88,
+    "filename": "seal_0088.jpg",
+    "lot": "LOT-AI-2026-0088",
+    "groundTruthBits": "111000011110111101101101011001110111100111000100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:48.794Z"
+    }
+  },
+  {
+    "id": 89,
+    "filename": "seal_0089.jpg",
+    "lot": "LOT-AI-2026-0089",
+    "groundTruthBits": "000100111010111111101111100101001010101111100000110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:48.890Z"
+    }
+  },
+  {
+    "id": 90,
+    "filename": "seal_0090.jpg",
+    "lot": "LOT-AI-2026-0090",
+    "groundTruthBits": "101010110110110111010101111001011110000100111000011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:48.981Z"
+    }
+  },
+  {
+    "id": 91,
+    "filename": "seal_0091.jpg",
+    "lot": "LOT-AI-2026-0091",
+    "groundTruthBits": "001001011111001010000101011010111010111011010011010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.054Z"
+    }
+  },
+  {
+    "id": 92,
+    "filename": "seal_0092.jpg",
+    "lot": "LOT-AI-2026-0092",
+    "groundTruthBits": "111101001000000110000011101001101111101111110001110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.129Z"
+    }
+  },
+  {
+    "id": 93,
+    "filename": "seal_0093.jpg",
+    "lot": "LOT-AI-2026-0093",
+    "groundTruthBits": "100011000000000100101011011001001100001111101111100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.207Z"
+    }
+  },
+  {
+    "id": 94,
+    "filename": "seal_0094.jpg",
+    "lot": "LOT-AI-2026-0094",
+    "groundTruthBits": "010111000101110011110000001010001100101010100100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.286Z"
+    }
+  },
+  {
+    "id": 95,
+    "filename": "seal_0095.jpg",
+    "lot": "LOT-AI-2026-0095",
+    "groundTruthBits": "111000110000011010110010110111010111001010110100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.360Z"
+    }
+  },
+  {
+    "id": 96,
+    "filename": "seal_0096.jpg",
+    "lot": "LOT-AI-2026-0096",
+    "groundTruthBits": "111101110111001010010110111000111011101110100001010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.430Z"
+    }
+  },
+  {
+    "id": 97,
+    "filename": "seal_0097.jpg",
+    "lot": "LOT-AI-2026-0097",
+    "groundTruthBits": "001111011011100011001001101001110100010010011110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.514Z"
+    }
+  },
+  {
+    "id": 98,
+    "filename": "seal_0098.jpg",
+    "lot": "LOT-AI-2026-0098",
+    "groundTruthBits": "101110001110111101001100010001011010100111101110110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.607Z"
+    }
+  },
+  {
+    "id": 99,
+    "filename": "seal_0099.jpg",
+    "lot": "LOT-AI-2026-0099",
+    "groundTruthBits": "101010010001101001111000110111111110010101101010000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.688Z"
+    }
+  },
+  {
+    "id": 100,
+    "filename": "seal_0100.jpg",
+    "lot": "LOT-AI-2026-0100",
+    "groundTruthBits": "111101000110000111011110110010111100101011100010001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.761Z"
+    }
+  },
+  {
+    "id": 101,
+    "filename": "seal_0101.jpg",
+    "lot": "LOT-AI-2026-0101",
+    "groundTruthBits": "110101111101011101000011001001011110101110011010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.840Z"
+    }
+  },
+  {
+    "id": 102,
+    "filename": "seal_0102.jpg",
+    "lot": "LOT-AI-2026-0102",
+    "groundTruthBits": "010001110101011111110101110111100001011000011000001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.911Z"
+    }
+  },
+  {
+    "id": 103,
+    "filename": "seal_0103.jpg",
+    "lot": "LOT-AI-2026-0103",
+    "groundTruthBits": "100001111100110001111100011000100010101001001101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:49.985Z"
+    }
+  },
+  {
+    "id": 104,
+    "filename": "seal_0104.jpg",
+    "lot": "LOT-AI-2026-0104",
+    "groundTruthBits": "010001100100011001011000001111111100110111010010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.061Z"
+    }
+  },
+  {
+    "id": 105,
+    "filename": "seal_0105.jpg",
+    "lot": "LOT-AI-2026-0105",
+    "groundTruthBits": "000101001000111000100100000011111101101101110101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.134Z"
+    }
+  },
+  {
+    "id": 106,
+    "filename": "seal_0106.jpg",
+    "lot": "LOT-AI-2026-0106",
+    "groundTruthBits": "011000100010110101100010011100101011011101100111101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.205Z"
+    }
+  },
+  {
+    "id": 107,
+    "filename": "seal_0107.jpg",
+    "lot": "LOT-AI-2026-0107",
+    "groundTruthBits": "000010101110111111110001110010001000110011101010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.285Z"
+    }
+  },
+  {
+    "id": 108,
+    "filename": "seal_0108.jpg",
+    "lot": "LOT-AI-2026-0108",
+    "groundTruthBits": "000010110001011110111010100001111100111111011001101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.359Z"
+    }
+  },
+  {
+    "id": 109,
+    "filename": "seal_0109.jpg",
+    "lot": "LOT-AI-2026-0109",
+    "groundTruthBits": "110001111110010000001110011011101000100010111101010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.428Z"
+    }
+  },
+  {
+    "id": 110,
+    "filename": "seal_0110.jpg",
+    "lot": "LOT-AI-2026-0110",
+    "groundTruthBits": "011010110100111101001011101010011100000101000010010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.500Z"
+    }
+  },
+  {
+    "id": 111,
+    "filename": "seal_0111.jpg",
+    "lot": "LOT-AI-2026-0111",
+    "groundTruthBits": "001001010011001010000000100101010000100011111000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.573Z"
+    }
+  },
+  {
+    "id": 112,
+    "filename": "seal_0112.jpg",
+    "lot": "LOT-AI-2026-0112",
+    "groundTruthBits": "110001111001000101110100011110110110001101001110000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.648Z"
+    }
+  },
+  {
+    "id": 113,
+    "filename": "seal_0113.jpg",
+    "lot": "LOT-AI-2026-0113",
+    "groundTruthBits": "000000011011001100000101110010011110100111000100010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.719Z"
+    }
+  },
+  {
+    "id": 114,
+    "filename": "seal_0114.jpg",
+    "lot": "LOT-AI-2026-0114",
+    "groundTruthBits": "000111011000011110000111000100100010001111100100001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.896Z"
+    }
+  },
+  {
+    "id": 115,
+    "filename": "seal_0115.jpg",
+    "lot": "LOT-AI-2026-0115",
+    "groundTruthBits": "010110111011110101010010011111111110011001000010001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:50.969Z"
+    }
+  },
+  {
+    "id": 116,
+    "filename": "seal_0116.jpg",
+    "lot": "LOT-AI-2026-0116",
+    "groundTruthBits": "011110011010110101100111011101110101001111111101110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:51.115Z"
+    }
+  },
+  {
+    "id": 117,
+    "filename": "seal_0117.jpg",
+    "lot": "LOT-AI-2026-0117",
+    "groundTruthBits": "010100001111001000111001101110110000110100000010101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:51.239Z"
+    }
+  },
+  {
+    "id": 118,
+    "filename": "seal_0118.jpg",
+    "lot": "LOT-AI-2026-0118",
+    "groundTruthBits": "111110011011000001101101000011011100101101110001101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:51.434Z"
+    }
+  },
+  {
+    "id": 119,
+    "filename": "seal_0119.jpg",
+    "lot": "LOT-AI-2026-0119",
+    "groundTruthBits": "100101111000001011110110100000000101011101001111101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:51.720Z"
+    }
+  },
+  {
+    "id": 120,
+    "filename": "seal_0120.jpg",
+    "lot": "LOT-AI-2026-0120",
+    "groundTruthBits": "101100001100000011100101000010010011111110111100001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:51.889Z"
+    }
+  },
+  {
+    "id": 121,
+    "filename": "seal_0121.jpg",
+    "lot": "LOT-AI-2026-0121",
+    "groundTruthBits": "010110011101011011110000010010110011001100001011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.000Z"
+    }
+  },
+  {
+    "id": 122,
+    "filename": "seal_0122.jpg",
+    "lot": "LOT-AI-2026-0122",
+    "groundTruthBits": "101110000101100111101000101001000101000000110011010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.090Z"
+    }
+  },
+  {
+    "id": 123,
+    "filename": "seal_0123.jpg",
+    "lot": "LOT-AI-2026-0123",
+    "groundTruthBits": "001000101110110111100010000000110011111001010110110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.180Z"
+    }
+  },
+  {
+    "id": 124,
+    "filename": "seal_0124.jpg",
+    "lot": "LOT-AI-2026-0124",
+    "groundTruthBits": "110001001101010000001110001111001011101100111011000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.254Z"
+    }
+  },
+  {
+    "id": 125,
+    "filename": "seal_0125.jpg",
+    "lot": "LOT-AI-2026-0125",
+    "groundTruthBits": "000100010011111001110111110001100100101000100110011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.333Z"
+    }
+  },
+  {
+    "id": 126,
+    "filename": "seal_0126.jpg",
+    "lot": "LOT-AI-2026-0126",
+    "groundTruthBits": "100100111010010011000111110010000010001011100101011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.518Z"
+    }
+  },
+  {
+    "id": 127,
+    "filename": "seal_0127.jpg",
+    "lot": "LOT-AI-2026-0127",
+    "groundTruthBits": "010110011010100010000110001101010110001010001110110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.639Z"
+    }
+  },
+  {
+    "id": 128,
+    "filename": "seal_0128.jpg",
+    "lot": "LOT-AI-2026-0128",
+    "groundTruthBits": "001010000000100100101011011000111001011001011111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.726Z"
+    }
+  },
+  {
+    "id": 129,
+    "filename": "seal_0129.jpg",
+    "lot": "LOT-AI-2026-0129",
+    "groundTruthBits": "011011001000101001101001110110100001010010001111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.824Z"
+    }
+  },
+  {
+    "id": 130,
+    "filename": "seal_0130.jpg",
+    "lot": "LOT-AI-2026-0130",
+    "groundTruthBits": "010011010101000010011110000011011011010110111110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:52.910Z"
+    }
+  },
+  {
+    "id": 131,
+    "filename": "seal_0131.jpg",
+    "lot": "LOT-AI-2026-0131",
+    "groundTruthBits": "000011000101000011101010001101011001001100110110100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.018Z"
+    }
+  },
+  {
+    "id": 132,
+    "filename": "seal_0132.jpg",
+    "lot": "LOT-AI-2026-0132",
+    "groundTruthBits": "001000101000000001111110011001111110010000010110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.100Z"
+    }
+  },
+  {
+    "id": 133,
+    "filename": "seal_0133.jpg",
+    "lot": "LOT-AI-2026-0133",
+    "groundTruthBits": "001110010110011000101000101110011001011000000010010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.174Z"
+    }
+  },
+  {
+    "id": 134,
+    "filename": "seal_0134.jpg",
+    "lot": "LOT-AI-2026-0134",
+    "groundTruthBits": "001110001100111101110111101101111001010101110100100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.252Z"
+    }
+  },
+  {
+    "id": 135,
+    "filename": "seal_0135.jpg",
+    "lot": "LOT-AI-2026-0135",
+    "groundTruthBits": "101110010111100000110111001011111011111110011100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.339Z"
+    }
+  },
+  {
+    "id": 136,
+    "filename": "seal_0136.jpg",
+    "lot": "LOT-AI-2026-0136",
+    "groundTruthBits": "011010111110110000101101111001111111100000111111110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.413Z"
+    }
+  },
+  {
+    "id": 137,
+    "filename": "seal_0137.jpg",
+    "lot": "LOT-AI-2026-0137",
+    "groundTruthBits": "101111001000111010000011010111010101000010100000111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.493Z"
+    }
+  },
+  {
+    "id": 138,
+    "filename": "seal_0138.jpg",
+    "lot": "LOT-AI-2026-0138",
+    "groundTruthBits": "010111101000001100110010001001010100011001101101011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.575Z"
+    }
+  },
+  {
+    "id": 139,
+    "filename": "seal_0139.jpg",
+    "lot": "LOT-AI-2026-0139",
+    "groundTruthBits": "000111000100000001001000100011101001111001010111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.667Z"
+    }
+  },
+  {
+    "id": 140,
+    "filename": "seal_0140.jpg",
+    "lot": "LOT-AI-2026-0140",
+    "groundTruthBits": "101111111010101101111100111100111110101110111010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:53.845Z"
+    }
+  },
+  {
+    "id": 141,
+    "filename": "seal_0141.jpg",
+    "lot": "LOT-AI-2026-0141",
+    "groundTruthBits": "000101110000101101101001011100101101001100011001101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:54.184Z"
+    }
+  },
+  {
+    "id": 142,
+    "filename": "seal_0142.jpg",
+    "lot": "LOT-AI-2026-0142",
+    "groundTruthBits": "011100110010101000100011110101101101111111000111010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:54.564Z"
+    }
+  },
+  {
+    "id": 143,
+    "filename": "seal_0143.jpg",
+    "lot": "LOT-AI-2026-0143",
+    "groundTruthBits": "101111100001110000010011110101101111101101101110110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:54.701Z"
+    }
+  },
+  {
+    "id": 144,
+    "filename": "seal_0144.jpg",
+    "lot": "LOT-AI-2026-0144",
+    "groundTruthBits": "011011100100101000101111101101001110000000111100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:54.909Z"
+    }
+  },
+  {
+    "id": 145,
+    "filename": "seal_0145.jpg",
+    "lot": "LOT-AI-2026-0145",
+    "groundTruthBits": "111010110111101111110101011110001001011100000000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:55.071Z"
+    }
+  },
+  {
+    "id": 146,
+    "filename": "seal_0146.jpg",
+    "lot": "LOT-AI-2026-0146",
+    "groundTruthBits": "110010011011001101101010110000010011101000100000111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:55.205Z"
+    }
+  },
+  {
+    "id": 147,
+    "filename": "seal_0147.jpg",
+    "lot": "LOT-AI-2026-0147",
+    "groundTruthBits": "110100110100100110100011011000101000000010010110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:55.434Z"
+    }
+  },
+  {
+    "id": 148,
+    "filename": "seal_0148.jpg",
+    "lot": "LOT-AI-2026-0148",
+    "groundTruthBits": "111000100001000101001011111101111110100011111101110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:55.604Z"
+    }
+  },
+  {
+    "id": 149,
+    "filename": "seal_0149.jpg",
+    "lot": "LOT-AI-2026-0149",
+    "groundTruthBits": "101110010100001101001111011110101010101110111010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:56.186Z"
+    }
+  },
+  {
+    "id": 150,
+    "filename": "seal_0150.jpg",
+    "lot": "LOT-AI-2026-0150",
+    "groundTruthBits": "101110100011000011010101100100000111111010000101001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:56.453Z"
+    }
+  },
+  {
+    "id": 151,
+    "filename": "seal_0151.jpg",
+    "lot": "LOT-AI-2026-0151",
+    "groundTruthBits": "101111101111010001000010100011111101110100100111110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:56.641Z"
+    }
+  },
+  {
+    "id": 152,
+    "filename": "seal_0152.jpg",
+    "lot": "LOT-AI-2026-0152",
+    "groundTruthBits": "101100110000111111010101111110100010000100000011110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:56.758Z"
+    }
+  },
+  {
+    "id": 153,
+    "filename": "seal_0153.jpg",
+    "lot": "LOT-AI-2026-0153",
+    "groundTruthBits": "001110110011111000010110010100011111011011000001010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:56.900Z"
+    }
+  },
+  {
+    "id": 154,
+    "filename": "seal_0154.jpg",
+    "lot": "LOT-AI-2026-0154",
+    "groundTruthBits": "010110010001000011000110101111010101010111110111100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.018Z"
+    }
+  },
+  {
+    "id": 155,
+    "filename": "seal_0155.jpg",
+    "lot": "LOT-AI-2026-0155",
+    "groundTruthBits": "100100011110100001110011001111110101110110001000111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.107Z"
+    }
+  },
+  {
+    "id": 156,
+    "filename": "seal_0156.jpg",
+    "lot": "LOT-AI-2026-0156",
+    "groundTruthBits": "101011011100111110011110110110010010001011111110000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.192Z"
+    }
+  },
+  {
+    "id": 157,
+    "filename": "seal_0157.jpg",
+    "lot": "LOT-AI-2026-0157",
+    "groundTruthBits": "111010110110111101000001101011010111011110010111110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.286Z"
+    }
+  },
+  {
+    "id": 158,
+    "filename": "seal_0158.jpg",
+    "lot": "LOT-AI-2026-0158",
+    "groundTruthBits": "001111000001110100010010001111010101000110110110000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.389Z"
+    }
+  },
+  {
+    "id": 159,
+    "filename": "seal_0159.jpg",
+    "lot": "LOT-AI-2026-0159",
+    "groundTruthBits": "110000011100011100011100100101000111010101000011011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.478Z"
+    }
+  },
+  {
+    "id": 160,
+    "filename": "seal_0160.jpg",
+    "lot": "LOT-AI-2026-0160",
+    "groundTruthBits": "111110001000001111111001110101001001010010111100101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.579Z"
+    }
+  },
+  {
+    "id": 161,
+    "filename": "seal_0161.jpg",
+    "lot": "LOT-AI-2026-0161",
+    "groundTruthBits": "010111101000001001010110010000001001101001100111100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.668Z"
+    }
+  },
+  {
+    "id": 162,
+    "filename": "seal_0162.jpg",
+    "lot": "LOT-AI-2026-0162",
+    "groundTruthBits": "100010000110110111011001001001100111100001011000010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.859Z"
+    }
+  },
+  {
+    "id": 163,
+    "filename": "seal_0163.jpg",
+    "lot": "LOT-AI-2026-0163",
+    "groundTruthBits": "111010111010100001001111011001000100111000110011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:57.953Z"
+    }
+  },
+  {
+    "id": 164,
+    "filename": "seal_0164.jpg",
+    "lot": "LOT-AI-2026-0164",
+    "groundTruthBits": "011000100110101100110111001110100011101101001010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.055Z"
+    }
+  },
+  {
+    "id": 165,
+    "filename": "seal_0165.jpg",
+    "lot": "LOT-AI-2026-0165",
+    "groundTruthBits": "011001000101101000011010000000100011101100000100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.153Z"
+    }
+  },
+  {
+    "id": 166,
+    "filename": "seal_0166.jpg",
+    "lot": "LOT-AI-2026-0166",
+    "groundTruthBits": "011010101100001001100100011111001111011010010000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.251Z"
+    }
+  },
+  {
+    "id": 167,
+    "filename": "seal_0167.jpg",
+    "lot": "LOT-AI-2026-0167",
+    "groundTruthBits": "001010001000100000111000000101000011110110001001101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.400Z"
+    }
+  },
+  {
+    "id": 168,
+    "filename": "seal_0168.jpg",
+    "lot": "LOT-AI-2026-0168",
+    "groundTruthBits": "011001011110101011011100000011011000110101110100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.513Z"
+    }
+  },
+  {
+    "id": 169,
+    "filename": "seal_0169.jpg",
+    "lot": "LOT-AI-2026-0169",
+    "groundTruthBits": "110011101000000001001110001001111011110100111101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.609Z"
+    }
+  },
+  {
+    "id": 170,
+    "filename": "seal_0170.jpg",
+    "lot": "LOT-AI-2026-0170",
+    "groundTruthBits": "011010000110111001000101001111011101010000010000001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.707Z"
+    }
+  },
+  {
+    "id": 171,
+    "filename": "seal_0171.jpg",
+    "lot": "LOT-AI-2026-0171",
+    "groundTruthBits": "110101101001011001101010101101100011011101010100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.801Z"
+    }
+  },
+  {
+    "id": 172,
+    "filename": "seal_0172.jpg",
+    "lot": "LOT-AI-2026-0172",
+    "groundTruthBits": "011100101001011010010100111011111111100000010100101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.872Z"
+    }
+  },
+  {
+    "id": 173,
+    "filename": "seal_0173.jpg",
+    "lot": "LOT-AI-2026-0173",
+    "groundTruthBits": "011111100110010001100001001000100010111100100010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:58.944Z"
+    }
+  },
+  {
+    "id": 174,
+    "filename": "seal_0174.jpg",
+    "lot": "LOT-AI-2026-0174",
+    "groundTruthBits": "110001010001001010100101001010000100010111001010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.037Z"
+    }
+  },
+  {
+    "id": 175,
+    "filename": "seal_0175.jpg",
+    "lot": "LOT-AI-2026-0175",
+    "groundTruthBits": "001110001010100100100110000110001000111100111101110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.119Z"
+    }
+  },
+  {
+    "id": 176,
+    "filename": "seal_0176.jpg",
+    "lot": "LOT-AI-2026-0176",
+    "groundTruthBits": "001100111100100100110111101000100011111001010001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.207Z"
+    }
+  },
+  {
+    "id": 177,
+    "filename": "seal_0177.jpg",
+    "lot": "LOT-AI-2026-0177",
+    "groundTruthBits": "010000101000110010011010011101000111011001101101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.300Z"
+    }
+  },
+  {
+    "id": 178,
+    "filename": "seal_0178.jpg",
+    "lot": "LOT-AI-2026-0178",
+    "groundTruthBits": "001110111111010001101010110101001100000100010011000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.398Z"
+    }
+  },
+  {
+    "id": 179,
+    "filename": "seal_0179.jpg",
+    "lot": "LOT-AI-2026-0179",
+    "groundTruthBits": "001000010101000000101000010101001100101011111110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.519Z"
+    }
+  },
+  {
+    "id": 180,
+    "filename": "seal_0180.jpg",
+    "lot": "LOT-AI-2026-0180",
+    "groundTruthBits": "000110000100001010001011000011100001011110001001001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.629Z"
+    }
+  },
+  {
+    "id": 181,
+    "filename": "seal_0181.jpg",
+    "lot": "LOT-AI-2026-0181",
+    "groundTruthBits": "010101110000100010000111101011111010100110011111100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.741Z"
+    }
+  },
+  {
+    "id": 182,
+    "filename": "seal_0182.jpg",
+    "lot": "LOT-AI-2026-0182",
+    "groundTruthBits": "000001101010101110110100111001100111110101011001011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.865Z"
+    }
+  },
+  {
+    "id": 183,
+    "filename": "seal_0183.jpg",
+    "lot": "LOT-AI-2026-0183",
+    "groundTruthBits": "000100010010001111110100001111101010101010011001101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:04:59.963Z"
+    }
+  },
+  {
+    "id": 184,
+    "filename": "seal_0184.jpg",
+    "lot": "LOT-AI-2026-0184",
+    "groundTruthBits": "101100110101100001110010101010111010010000011001011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:00.088Z"
+    }
+  },
+  {
+    "id": 185,
+    "filename": "seal_0185.jpg",
+    "lot": "LOT-AI-2026-0185",
+    "groundTruthBits": "011001111111110000110001001111101011001011010011001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:00.189Z"
+    }
+  },
+  {
+    "id": 186,
+    "filename": "seal_0186.jpg",
+    "lot": "LOT-AI-2026-0186",
+    "groundTruthBits": "111010010110101100111111011010101000101111111010000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:00.352Z"
+    }
+  },
+  {
+    "id": 187,
+    "filename": "seal_0187.jpg",
+    "lot": "LOT-AI-2026-0187",
+    "groundTruthBits": "000100001001000101001001011011000001001100110100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:01.008Z"
+    }
+  },
+  {
+    "id": 188,
+    "filename": "seal_0188.jpg",
+    "lot": "LOT-AI-2026-0188",
+    "groundTruthBits": "101011010101110110110001001100000111111011111000110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:01.275Z"
+    }
+  },
+  {
+    "id": 189,
+    "filename": "seal_0189.jpg",
+    "lot": "LOT-AI-2026-0189",
+    "groundTruthBits": "111111010101000101000101000010000010011101010001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:01.600Z"
+    }
+  },
+  {
+    "id": 190,
+    "filename": "seal_0190.jpg",
+    "lot": "LOT-AI-2026-0190",
+    "groundTruthBits": "011010101010111101001100101111110011111101100110000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:01.737Z"
+    }
+  },
+  {
+    "id": 191,
+    "filename": "seal_0191.jpg",
+    "lot": "LOT-AI-2026-0191",
+    "groundTruthBits": "101001101100010111111011110110101101100000000101100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:01.883Z"
+    }
+  },
+  {
+    "id": 192,
+    "filename": "seal_0192.jpg",
+    "lot": "LOT-AI-2026-0192",
+    "groundTruthBits": "011111010101100111111101101011001101011111100111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:02.089Z"
+    }
+  },
+  {
+    "id": 193,
+    "filename": "seal_0193.jpg",
+    "lot": "LOT-AI-2026-0193",
+    "groundTruthBits": "000000010000101011000100110101100010111110011101100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:02.230Z"
+    }
+  },
+  {
+    "id": 194,
+    "filename": "seal_0194.jpg",
+    "lot": "LOT-AI-2026-0194",
+    "groundTruthBits": "101110101001000100001101110000101001010100100011110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:02.330Z"
+    }
+  },
+  {
+    "id": 195,
+    "filename": "seal_0195.jpg",
+    "lot": "LOT-AI-2026-0195",
+    "groundTruthBits": "100010111010010001111011010111101011011011100101011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:02.424Z"
+    }
+  },
+  {
+    "id": 196,
+    "filename": "seal_0196.jpg",
+    "lot": "LOT-AI-2026-0196",
+    "groundTruthBits": "000000011111110100011111101011110010001100010101111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:02.527Z"
+    }
+  },
+  {
+    "id": 197,
+    "filename": "seal_0197.jpg",
+    "lot": "LOT-AI-2026-0197",
+    "groundTruthBits": "001111111100101000100010100110011111000001011100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:02.616Z"
+    }
+  },
+  {
+    "id": 198,
+    "filename": "seal_0198.jpg",
+    "lot": "LOT-AI-2026-0198",
+    "groundTruthBits": "111110100011010110111010101000011101001111100001001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:02.710Z"
+    }
+  },
+  {
+    "id": 199,
+    "filename": "seal_0199.jpg",
+    "lot": "LOT-AI-2026-0199",
+    "groundTruthBits": "010100111100000011001000001011101111001000011000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:02.801Z"
+    }
+  },
+  {
+    "id": 200,
+    "filename": "seal_0200.jpg",
+    "lot": "LOT-AI-2026-0200",
+    "groundTruthBits": "010110110110110101011000100101111000111001101010010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:02.891Z"
+    }
+  },
+  {
+    "id": 201,
+    "filename": "seal_0201.jpg",
+    "lot": "LOT-AI-2026-0201",
+    "groundTruthBits": "011111110000101001010101000101110100011111100010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:03.019Z"
+    }
+  },
+  {
+    "id": 202,
+    "filename": "seal_0202.jpg",
+    "lot": "LOT-AI-2026-0202",
+    "groundTruthBits": "010011111001000110000110011001100000100110000001000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:03.106Z"
+    }
+  },
+  {
+    "id": 203,
+    "filename": "seal_0203.jpg",
+    "lot": "LOT-AI-2026-0203",
+    "groundTruthBits": "101100011110010000100000010111001000111110010001110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:03.216Z"
+    }
+  },
+  {
+    "id": 204,
+    "filename": "seal_0204.jpg",
+    "lot": "LOT-AI-2026-0204",
+    "groundTruthBits": "001101010010110101001101100101000111001001111000101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:03.305Z"
+    }
+  },
+  {
+    "id": 205,
+    "filename": "seal_0205.jpg",
+    "lot": "LOT-AI-2026-0205",
+    "groundTruthBits": "011111000100011010111100100110001011100001000011110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:03.529Z"
+    }
+  },
+  {
+    "id": 206,
+    "filename": "seal_0206.jpg",
+    "lot": "LOT-AI-2026-0206",
+    "groundTruthBits": "001000001100111101000110011111100011000100101100010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:03.618Z"
+    }
+  },
+  {
+    "id": 207,
+    "filename": "seal_0207.jpg",
+    "lot": "LOT-AI-2026-0207",
+    "groundTruthBits": "111101011010011010101111111001001110011000011101001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:03.709Z"
+    }
+  },
+  {
+    "id": 208,
+    "filename": "seal_0208.jpg",
+    "lot": "LOT-AI-2026-0208",
+    "groundTruthBits": "110000011101100101001010100101100100110110011011010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:03.806Z"
+    }
+  },
+  {
+    "id": 209,
+    "filename": "seal_0209.jpg",
+    "lot": "LOT-AI-2026-0209",
+    "groundTruthBits": "001011101100110110100110010000111101011110001001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:03.900Z"
+    }
+  },
+  {
+    "id": 210,
+    "filename": "seal_0210.jpg",
+    "lot": "LOT-AI-2026-0210",
+    "groundTruthBits": "100111011011101000011101000110010010110011011011101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.012Z"
+    }
+  },
+  {
+    "id": 211,
+    "filename": "seal_0211.jpg",
+    "lot": "LOT-AI-2026-0211",
+    "groundTruthBits": "000001101011010001011111001000100111001101110111110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.120Z"
+    }
+  },
+  {
+    "id": 212,
+    "filename": "seal_0212.jpg",
+    "lot": "LOT-AI-2026-0212",
+    "groundTruthBits": "011101000001000100110010000001100110111011101011101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.213Z"
+    }
+  },
+  {
+    "id": 213,
+    "filename": "seal_0213.jpg",
+    "lot": "LOT-AI-2026-0213",
+    "groundTruthBits": "000010010011111010100011110010010001101111111111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.318Z"
+    }
+  },
+  {
+    "id": 214,
+    "filename": "seal_0214.jpg",
+    "lot": "LOT-AI-2026-0214",
+    "groundTruthBits": "101111101001100011011010111111010111011010010010001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.413Z"
+    }
+  },
+  {
+    "id": 215,
+    "filename": "seal_0215.jpg",
+    "lot": "LOT-AI-2026-0215",
+    "groundTruthBits": "001011011110011000101000101011100011011001001110011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.502Z"
+    }
+  },
+  {
+    "id": 216,
+    "filename": "seal_0216.jpg",
+    "lot": "LOT-AI-2026-0216",
+    "groundTruthBits": "101011000000001001000110010110101000011000111100001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.588Z"
+    }
+  },
+  {
+    "id": 217,
+    "filename": "seal_0217.jpg",
+    "lot": "LOT-AI-2026-0217",
+    "groundTruthBits": "000101001010011110010011111001011101010101101011010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.682Z"
+    }
+  },
+  {
+    "id": 218,
+    "filename": "seal_0218.jpg",
+    "lot": "LOT-AI-2026-0218",
+    "groundTruthBits": "110000100101111010111001111010111101111111100111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.772Z"
+    }
+  },
+  {
+    "id": 219,
+    "filename": "seal_0219.jpg",
+    "lot": "LOT-AI-2026-0219",
+    "groundTruthBits": "100000001010001000111110001001010101110011001101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.860Z"
+    }
+  },
+  {
+    "id": 220,
+    "filename": "seal_0220.jpg",
+    "lot": "LOT-AI-2026-0220",
+    "groundTruthBits": "001011111110011100011110011001001000100101010011001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:04.953Z"
+    }
+  },
+  {
+    "id": 221,
+    "filename": "seal_0221.jpg",
+    "lot": "LOT-AI-2026-0221",
+    "groundTruthBits": "110100001101100100001101110110001110001111111001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:05.048Z"
+    }
+  },
+  {
+    "id": 222,
+    "filename": "seal_0222.jpg",
+    "lot": "LOT-AI-2026-0222",
+    "groundTruthBits": "111011100101000111011111111101110001101111011010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:05.418Z"
+    }
+  },
+  {
+    "id": 223,
+    "filename": "seal_0223.jpg",
+    "lot": "LOT-AI-2026-0223",
+    "groundTruthBits": "111011000011001111011100111111001110001110101001011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:05.651Z"
+    }
+  },
+  {
+    "id": 224,
+    "filename": "seal_0224.jpg",
+    "lot": "LOT-AI-2026-0224",
+    "groundTruthBits": "010101011010100110010010100101111101000010011111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:05.990Z"
+    }
+  },
+  {
+    "id": 225,
+    "filename": "seal_0225.jpg",
+    "lot": "LOT-AI-2026-0225",
+    "groundTruthBits": "010100100011110011001110110110011110000111100110100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:06.169Z"
+    }
+  },
+  {
+    "id": 226,
+    "filename": "seal_0226.jpg",
+    "lot": "LOT-AI-2026-0226",
+    "groundTruthBits": "100000011011111100101010001000010010110011011111010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:06.317Z"
+    }
+  },
+  {
+    "id": 227,
+    "filename": "seal_0227.jpg",
+    "lot": "LOT-AI-2026-0227",
+    "groundTruthBits": "110110010011010100101100001111001001001000111001110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:06.456Z"
+    }
+  },
+  {
+    "id": 228,
+    "filename": "seal_0228.jpg",
+    "lot": "LOT-AI-2026-0228",
+    "groundTruthBits": "011000010001110011010001010000101010111101000001010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:06.568Z"
+    }
+  },
+  {
+    "id": 229,
+    "filename": "seal_0229.jpg",
+    "lot": "LOT-AI-2026-0229",
+    "groundTruthBits": "010110000001101101001110101101000110110101010110011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:06.672Z"
+    }
+  },
+  {
+    "id": 230,
+    "filename": "seal_0230.jpg",
+    "lot": "LOT-AI-2026-0230",
+    "groundTruthBits": "011110111110001111011101111111100001100111000111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:06.786Z"
+    }
+  },
+  {
+    "id": 231,
+    "filename": "seal_0231.jpg",
+    "lot": "LOT-AI-2026-0231",
+    "groundTruthBits": "000000110001010100011110000110011000001111101011011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:06.888Z"
+    }
+  },
+  {
+    "id": 232,
+    "filename": "seal_0232.jpg",
+    "lot": "LOT-AI-2026-0232",
+    "groundTruthBits": "001101000010100000100100001100110001110111101010001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:06.985Z"
+    }
+  },
+  {
+    "id": 233,
+    "filename": "seal_0233.jpg",
+    "lot": "LOT-AI-2026-0233",
+    "groundTruthBits": "001011101101100110011011110010111001100011010101011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:07.087Z"
+    }
+  },
+  {
+    "id": 234,
+    "filename": "seal_0234.jpg",
+    "lot": "LOT-AI-2026-0234",
+    "groundTruthBits": "100000010011001110011101101010100011100000100101001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:07.187Z"
+    }
+  },
+  {
+    "id": 235,
+    "filename": "seal_0235.jpg",
+    "lot": "LOT-AI-2026-0235",
+    "groundTruthBits": "111111111111001101101111001101010011000010101010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:07.295Z"
+    }
+  },
+  {
+    "id": 236,
+    "filename": "seal_0236.jpg",
+    "lot": "LOT-AI-2026-0236",
+    "groundTruthBits": "011000100110100000101111100101110000111011111111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:07.481Z"
+    }
+  },
+  {
+    "id": 237,
+    "filename": "seal_0237.jpg",
+    "lot": "LOT-AI-2026-0237",
+    "groundTruthBits": "010001111100011110111111111000110100001100011011011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:07.717Z"
+    }
+  },
+  {
+    "id": 238,
+    "filename": "seal_0238.jpg",
+    "lot": "LOT-AI-2026-0238",
+    "groundTruthBits": "110100011100011011100001001010010010010101000000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:08.168Z"
+    }
+  },
+  {
+    "id": 239,
+    "filename": "seal_0239.jpg",
+    "lot": "LOT-AI-2026-0239",
+    "groundTruthBits": "011010000001011110101001111000111001110010001101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:08.632Z"
+    }
+  },
+  {
+    "id": 240,
+    "filename": "seal_0240.jpg",
+    "lot": "LOT-AI-2026-0240",
+    "groundTruthBits": "011101000111101010010101011000100100000101101001001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:08.855Z"
+    }
+  },
+  {
+    "id": 241,
+    "filename": "seal_0241.jpg",
+    "lot": "LOT-AI-2026-0241",
+    "groundTruthBits": "001011000011000010011111001000101001000010001100001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:08.997Z"
+    }
+  },
+  {
+    "id": 242,
+    "filename": "seal_0242.jpg",
+    "lot": "LOT-AI-2026-0242",
+    "groundTruthBits": "111010011011111001110011000101100010010000010110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:09.356Z"
+    }
+  },
+  {
+    "id": 243,
+    "filename": "seal_0243.jpg",
+    "lot": "LOT-AI-2026-0243",
+    "groundTruthBits": "111001000100001000010100100110110010011011100010111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:09.564Z"
+    }
+  },
+  {
+    "id": 244,
+    "filename": "seal_0244.jpg",
+    "lot": "LOT-AI-2026-0244",
+    "groundTruthBits": "001111100101110001000100100110010000101001000111101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:09.734Z"
+    }
+  },
+  {
+    "id": 245,
+    "filename": "seal_0245.jpg",
+    "lot": "LOT-AI-2026-0245",
+    "groundTruthBits": "101100111101000011110100010001000111101000111011000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:09.932Z"
+    }
+  },
+  {
+    "id": 246,
+    "filename": "seal_0246.jpg",
+    "lot": "LOT-AI-2026-0246",
+    "groundTruthBits": "010101101100101011000110000111010111100010010011110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:10.105Z"
+    }
+  },
+  {
+    "id": 247,
+    "filename": "seal_0247.jpg",
+    "lot": "LOT-AI-2026-0247",
+    "groundTruthBits": "100011101111011100101011100011011110000001101111000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:10.247Z"
+    }
+  },
+  {
+    "id": 248,
+    "filename": "seal_0248.jpg",
+    "lot": "LOT-AI-2026-0248",
+    "groundTruthBits": "101110110000011000001101001100111010100101101110011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:10.586Z"
+    }
+  },
+  {
+    "id": 249,
+    "filename": "seal_0249.jpg",
+    "lot": "LOT-AI-2026-0249",
+    "groundTruthBits": "101100111000010010001011011101001101000101111010010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:11.104Z"
+    }
+  },
+  {
+    "id": 250,
+    "filename": "seal_0250.jpg",
+    "lot": "LOT-AI-2026-0250",
+    "groundTruthBits": "001011111010110101110001011100100100000111101000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:11.465Z"
+    }
+  },
+  {
+    "id": 251,
+    "filename": "seal_0251.jpg",
+    "lot": "LOT-AI-2026-0251",
+    "groundTruthBits": "111101111110010100100110001010000111101011010000001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:11.750Z"
+    }
+  },
+  {
+    "id": 252,
+    "filename": "seal_0252.jpg",
+    "lot": "LOT-AI-2026-0252",
+    "groundTruthBits": "111000010010010011111010001100011100111101011001001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:12.020Z"
+    }
+  },
+  {
+    "id": 253,
+    "filename": "seal_0253.jpg",
+    "lot": "LOT-AI-2026-0253",
+    "groundTruthBits": "111101111111100010010110011101011111011010000100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:12.199Z"
+    }
+  },
+  {
+    "id": 254,
+    "filename": "seal_0254.jpg",
+    "lot": "LOT-AI-2026-0254",
+    "groundTruthBits": "011100010010001000010001111000010101001000010111011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:12.415Z"
+    }
+  },
+  {
+    "id": 255,
+    "filename": "seal_0255.jpg",
+    "lot": "LOT-AI-2026-0255",
+    "groundTruthBits": "101001000111101001001000000000000011111110011100010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:12.567Z"
+    }
+  },
+  {
+    "id": 256,
+    "filename": "seal_0256.jpg",
+    "lot": "LOT-AI-2026-0256",
+    "groundTruthBits": "000000110010010011111101000101001000101001101110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:12.659Z"
+    }
+  },
+  {
+    "id": 257,
+    "filename": "seal_0257.jpg",
+    "lot": "LOT-AI-2026-0257",
+    "groundTruthBits": "011011110110110010000101001100110001011101100000110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:12.754Z"
+    }
+  },
+  {
+    "id": 258,
+    "filename": "seal_0258.jpg",
+    "lot": "LOT-AI-2026-0258",
+    "groundTruthBits": "010101100101010111111100101101011111000011110101100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:12.850Z"
+    }
+  },
+  {
+    "id": 259,
+    "filename": "seal_0259.jpg",
+    "lot": "LOT-AI-2026-0259",
+    "groundTruthBits": "100100001000001010001101010000000011100110111100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:12.943Z"
+    }
+  },
+  {
+    "id": 260,
+    "filename": "seal_0260.jpg",
+    "lot": "LOT-AI-2026-0260",
+    "groundTruthBits": "101101001100111010100110000010001101111011111100010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:13.052Z"
+    }
+  },
+  {
+    "id": 261,
+    "filename": "seal_0261.jpg",
+    "lot": "LOT-AI-2026-0261",
+    "groundTruthBits": "110101101100001000001100111110101010111110100101111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:13.149Z"
+    }
+  },
+  {
+    "id": 262,
+    "filename": "seal_0262.jpg",
+    "lot": "LOT-AI-2026-0262",
+    "groundTruthBits": "111101101101000000101011010001000111111011001000001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:13.260Z"
+    }
+  },
+  {
+    "id": 263,
+    "filename": "seal_0263.jpg",
+    "lot": "LOT-AI-2026-0263",
+    "groundTruthBits": "000111000101000001000111101001011000001000001110100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:13.363Z"
+    }
+  },
+  {
+    "id": 264,
+    "filename": "seal_0264.jpg",
+    "lot": "LOT-AI-2026-0264",
+    "groundTruthBits": "110110101011101101101011010111110110001101101101111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:13.481Z"
+    }
+  },
+  {
+    "id": 265,
+    "filename": "seal_0265.jpg",
+    "lot": "LOT-AI-2026-0265",
+    "groundTruthBits": "100111001010111101111001111010111001101011111000110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:13.584Z"
+    }
+  },
+  {
+    "id": 266,
+    "filename": "seal_0266.jpg",
+    "lot": "LOT-AI-2026-0266",
+    "groundTruthBits": "001100110100010011011001001010110011011111001111110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:13.734Z"
+    }
+  },
+  {
+    "id": 267,
+    "filename": "seal_0267.jpg",
+    "lot": "LOT-AI-2026-0267",
+    "groundTruthBits": "000101000011100001111110110110100000001111011001100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:14.000Z"
+    }
+  },
+  {
+    "id": 268,
+    "filename": "seal_0268.jpg",
+    "lot": "LOT-AI-2026-0268",
+    "groundTruthBits": "110100011011010100100011011011110000110100110011001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:14.265Z"
+    }
+  },
+  {
+    "id": 269,
+    "filename": "seal_0269.jpg",
+    "lot": "LOT-AI-2026-0269",
+    "groundTruthBits": "111100001101101010111100000010011100111100011010000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:14.517Z"
+    }
+  },
+  {
+    "id": 270,
+    "filename": "seal_0270.jpg",
+    "lot": "LOT-AI-2026-0270",
+    "groundTruthBits": "000101101100010111011100011101001111001011100101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:14.662Z"
+    }
+  },
+  {
+    "id": 271,
+    "filename": "seal_0271.jpg",
+    "lot": "LOT-AI-2026-0271",
+    "groundTruthBits": "011110000100111110110000101101000110001010011011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:14.818Z"
+    }
+  },
+  {
+    "id": 272,
+    "filename": "seal_0272.jpg",
+    "lot": "LOT-AI-2026-0272",
+    "groundTruthBits": "100100110011011011101110101110111001100010011100111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:14.937Z"
+    }
+  },
+  {
+    "id": 273,
+    "filename": "seal_0273.jpg",
+    "lot": "LOT-AI-2026-0273",
+    "groundTruthBits": "001111000000101001111000101111000100011100001111011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:15.036Z"
+    }
+  },
+  {
+    "id": 274,
+    "filename": "seal_0274.jpg",
+    "lot": "LOT-AI-2026-0274",
+    "groundTruthBits": "101011111001001000101010010100100100111110000101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:15.136Z"
+    }
+  },
+  {
+    "id": 275,
+    "filename": "seal_0275.jpg",
+    "lot": "LOT-AI-2026-0275",
+    "groundTruthBits": "000100111010011001000011000000001111010110101011110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:15.245Z"
+    }
+  },
+  {
+    "id": 276,
+    "filename": "seal_0276.jpg",
+    "lot": "LOT-AI-2026-0276",
+    "groundTruthBits": "011100010110001100010010000101010000011100000001101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:15.726Z"
+    }
+  },
+  {
+    "id": 277,
+    "filename": "seal_0277.jpg",
+    "lot": "LOT-AI-2026-0277",
+    "groundTruthBits": "111110101111011101001101001011000100010011000100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:15.823Z"
+    }
+  },
+  {
+    "id": 278,
+    "filename": "seal_0278.jpg",
+    "lot": "LOT-AI-2026-0278",
+    "groundTruthBits": "011101101011110111101001101100100000000100101100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:15.914Z"
+    }
+  },
+  {
+    "id": 279,
+    "filename": "seal_0279.jpg",
+    "lot": "LOT-AI-2026-0279",
+    "groundTruthBits": "000101001110000100100100101100111010101010000001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:16.012Z"
+    }
+  },
+  {
+    "id": 280,
+    "filename": "seal_0280.jpg",
+    "lot": "LOT-AI-2026-0280",
+    "groundTruthBits": "001010010001101111101010000100111001000100100011010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:16.115Z"
+    }
+  },
+  {
+    "id": 281,
+    "filename": "seal_0281.jpg",
+    "lot": "LOT-AI-2026-0281",
+    "groundTruthBits": "110000110001111011010110100011101101001001110111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:16.212Z"
+    }
+  },
+  {
+    "id": 282,
+    "filename": "seal_0282.jpg",
+    "lot": "LOT-AI-2026-0282",
+    "groundTruthBits": "011001100010001011001110111111111100000110111001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:16.301Z"
+    }
+  },
+  {
+    "id": 283,
+    "filename": "seal_0283.jpg",
+    "lot": "LOT-AI-2026-0283",
+    "groundTruthBits": "000111011011100110101111011001101010001001111110011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:16.402Z"
+    }
+  },
+  {
+    "id": 284,
+    "filename": "seal_0284.jpg",
+    "lot": "LOT-AI-2026-0284",
+    "groundTruthBits": "110001010101000110110110001101100101001100011111011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:16.641Z"
+    }
+  },
+  {
+    "id": 285,
+    "filename": "seal_0285.jpg",
+    "lot": "LOT-AI-2026-0285",
+    "groundTruthBits": "100000010001101101110010111101000011000000011000001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:16.968Z"
+    }
+  },
+  {
+    "id": 286,
+    "filename": "seal_0286.jpg",
+    "lot": "LOT-AI-2026-0286",
+    "groundTruthBits": "010110101000001111100001110110101100001100001011000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:17.326Z"
+    }
+  },
+  {
+    "id": 287,
+    "filename": "seal_0287.jpg",
+    "lot": "LOT-AI-2026-0287",
+    "groundTruthBits": "001000110101111001001010010010011010111100011101110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:17.475Z"
+    }
+  },
+  {
+    "id": 288,
+    "filename": "seal_0288.jpg",
+    "lot": "LOT-AI-2026-0288",
+    "groundTruthBits": "110110011011101000010111110000011101111001111010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:17.653Z"
+    }
+  },
+  {
+    "id": 289,
+    "filename": "seal_0289.jpg",
+    "lot": "LOT-AI-2026-0289",
+    "groundTruthBits": "100000000000001011111010100000000101001111110010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:17.768Z"
+    }
+  },
+  {
+    "id": 290,
+    "filename": "seal_0290.jpg",
+    "lot": "LOT-AI-2026-0290",
+    "groundTruthBits": "100111011011100101011100001011101001001000100101110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:17.860Z"
+    }
+  },
+  {
+    "id": 291,
+    "filename": "seal_0291.jpg",
+    "lot": "LOT-AI-2026-0291",
+    "groundTruthBits": "111001001001111000111011000010011100011001101000011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:17.963Z"
+    }
+  },
+  {
+    "id": 292,
+    "filename": "seal_0292.jpg",
+    "lot": "LOT-AI-2026-0292",
+    "groundTruthBits": "100100010100001011010001011111110011100001110101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.058Z"
+    }
+  },
+  {
+    "id": 293,
+    "filename": "seal_0293.jpg",
+    "lot": "LOT-AI-2026-0293",
+    "groundTruthBits": "000101000100110100000101101100100010100110001100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.154Z"
+    }
+  },
+  {
+    "id": 294,
+    "filename": "seal_0294.jpg",
+    "lot": "LOT-AI-2026-0294",
+    "groundTruthBits": "011100101011011010111011010010011010110001001100010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.254Z"
+    }
+  },
+  {
+    "id": 295,
+    "filename": "seal_0295.jpg",
+    "lot": "LOT-AI-2026-0295",
+    "groundTruthBits": "011110010111000010100111011100100001001101001110110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.372Z"
+    }
+  },
+  {
+    "id": 296,
+    "filename": "seal_0296.jpg",
+    "lot": "LOT-AI-2026-0296",
+    "groundTruthBits": "111010111100111101110100101100110001111101100100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.463Z"
+    }
+  },
+  {
+    "id": 297,
+    "filename": "seal_0297.jpg",
+    "lot": "LOT-AI-2026-0297",
+    "groundTruthBits": "010001010111100101101110100001100000100111110000010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.545Z"
+    }
+  },
+  {
+    "id": 298,
+    "filename": "seal_0298.jpg",
+    "lot": "LOT-AI-2026-0298",
+    "groundTruthBits": "101000110000101101101111010100110001110000101100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.629Z"
+    }
+  },
+  {
+    "id": 299,
+    "filename": "seal_0299.jpg",
+    "lot": "LOT-AI-2026-0299",
+    "groundTruthBits": "111010000010100000110101001010100100010001111100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.706Z"
+    }
+  },
+  {
+    "id": 300,
+    "filename": "seal_0300.jpg",
+    "lot": "LOT-AI-2026-0300",
+    "groundTruthBits": "001000100000111110101010001100010110100001110011100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.779Z"
+    }
+  },
+  {
+    "id": 301,
+    "filename": "seal_0301.jpg",
+    "lot": "LOT-AI-2026-0301",
+    "groundTruthBits": "100011101100111011001001101111000100001101011101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.861Z"
+    }
+  },
+  {
+    "id": 302,
+    "filename": "seal_0302.jpg",
+    "lot": "LOT-AI-2026-0302",
+    "groundTruthBits": "101110000110001010010111101001110000010010010001000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:18.934Z"
+    }
+  },
+  {
+    "id": 303,
+    "filename": "seal_0303.jpg",
+    "lot": "LOT-AI-2026-0303",
+    "groundTruthBits": "010101000100001101111001101110100111101010010101111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.023Z"
+    }
+  },
+  {
+    "id": 304,
+    "filename": "seal_0304.jpg",
+    "lot": "LOT-AI-2026-0304",
+    "groundTruthBits": "110011111011101111101001111100100010000001011011110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.108Z"
+    }
+  },
+  {
+    "id": 305,
+    "filename": "seal_0305.jpg",
+    "lot": "LOT-AI-2026-0305",
+    "groundTruthBits": "000111000000011011111001100010101111000011001010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.181Z"
+    }
+  },
+  {
+    "id": 306,
+    "filename": "seal_0306.jpg",
+    "lot": "LOT-AI-2026-0306",
+    "groundTruthBits": "100001001111001001111001100110100101110110101111101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.250Z"
+    }
+  },
+  {
+    "id": 307,
+    "filename": "seal_0307.jpg",
+    "lot": "LOT-AI-2026-0307",
+    "groundTruthBits": "101011101000001011001001110010101000100010111100111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.328Z"
+    }
+  },
+  {
+    "id": 308,
+    "filename": "seal_0308.jpg",
+    "lot": "LOT-AI-2026-0308",
+    "groundTruthBits": "011101111101101011010100001111111100111111010100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.408Z"
+    }
+  },
+  {
+    "id": 309,
+    "filename": "seal_0309.jpg",
+    "lot": "LOT-AI-2026-0309",
+    "groundTruthBits": "010110011010101010110101111001110110110101111001011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.487Z"
+    }
+  },
+  {
+    "id": 310,
+    "filename": "seal_0310.jpg",
+    "lot": "LOT-AI-2026-0310",
+    "groundTruthBits": "011100011000101011001100111111010110110111100101001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.565Z"
+    }
+  },
+  {
+    "id": 311,
+    "filename": "seal_0311.jpg",
+    "lot": "LOT-AI-2026-0311",
+    "groundTruthBits": "011011100110100001110010000110011010110011110011101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.644Z"
+    }
+  },
+  {
+    "id": 312,
+    "filename": "seal_0312.jpg",
+    "lot": "LOT-AI-2026-0312",
+    "groundTruthBits": "111000000011001010011001011010000010110001011011000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.730Z"
+    }
+  },
+  {
+    "id": 313,
+    "filename": "seal_0313.jpg",
+    "lot": "LOT-AI-2026-0313",
+    "groundTruthBits": "101011000000111011001101001000100110101000100010101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.816Z"
+    }
+  },
+  {
+    "id": 314,
+    "filename": "seal_0314.jpg",
+    "lot": "LOT-AI-2026-0314",
+    "groundTruthBits": "000101110101111111110111011100011111101011111000110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:19.901Z"
+    }
+  },
+  {
+    "id": 315,
+    "filename": "seal_0315.jpg",
+    "lot": "LOT-AI-2026-0315",
+    "groundTruthBits": "111011000100100001011111011000000100101101000100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.019Z"
+    }
+  },
+  {
+    "id": 316,
+    "filename": "seal_0316.jpg",
+    "lot": "LOT-AI-2026-0316",
+    "groundTruthBits": "110010010001001010010010100100001101100101111000010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.148Z"
+    }
+  },
+  {
+    "id": 317,
+    "filename": "seal_0317.jpg",
+    "lot": "LOT-AI-2026-0317",
+    "groundTruthBits": "000111001000010110000000010110111110010001010110000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.237Z"
+    }
+  },
+  {
+    "id": 318,
+    "filename": "seal_0318.jpg",
+    "lot": "LOT-AI-2026-0318",
+    "groundTruthBits": "100011101111101110000111111101001001111101100011101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.343Z"
+    }
+  },
+  {
+    "id": 319,
+    "filename": "seal_0319.jpg",
+    "lot": "LOT-AI-2026-0319",
+    "groundTruthBits": "111011100011010101011000000111000100000011110111000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.466Z"
+    }
+  },
+  {
+    "id": 320,
+    "filename": "seal_0320.jpg",
+    "lot": "LOT-AI-2026-0320",
+    "groundTruthBits": "100001010011100111001110010000100101000001000110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.589Z"
+    }
+  },
+  {
+    "id": 321,
+    "filename": "seal_0321.jpg",
+    "lot": "LOT-AI-2026-0321",
+    "groundTruthBits": "001100011111001011100000010101101100101011111100101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.666Z"
+    }
+  },
+  {
+    "id": 322,
+    "filename": "seal_0322.jpg",
+    "lot": "LOT-AI-2026-0322",
+    "groundTruthBits": "010001001000110110010111011010101001111111011101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.817Z"
+    }
+  },
+  {
+    "id": 323,
+    "filename": "seal_0323.jpg",
+    "lot": "LOT-AI-2026-0323",
+    "groundTruthBits": "111000100011110000100100011010110101000001111001011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.913Z"
+    }
+  },
+  {
+    "id": 324,
+    "filename": "seal_0324.jpg",
+    "lot": "LOT-AI-2026-0324",
+    "groundTruthBits": "010110100100110100101011011111001011100110001110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:20.989Z"
+    }
+  },
+  {
+    "id": 325,
+    "filename": "seal_0325.jpg",
+    "lot": "LOT-AI-2026-0325",
+    "groundTruthBits": "001001110101000111001010011111110001010111000001010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:21.070Z"
+    }
+  },
+  {
+    "id": 326,
+    "filename": "seal_0326.jpg",
+    "lot": "LOT-AI-2026-0326",
+    "groundTruthBits": "100000000000010011101010010011100111011101100111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:21.295Z"
+    }
+  },
+  {
+    "id": 327,
+    "filename": "seal_0327.jpg",
+    "lot": "LOT-AI-2026-0327",
+    "groundTruthBits": "111001010010100111111001100101111010110011010111101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:21.515Z"
+    }
+  },
+  {
+    "id": 328,
+    "filename": "seal_0328.jpg",
+    "lot": "LOT-AI-2026-0328",
+    "groundTruthBits": "100001110010110011100010110110010110100110110110111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:21.683Z"
+    }
+  },
+  {
+    "id": 329,
+    "filename": "seal_0329.jpg",
+    "lot": "LOT-AI-2026-0329",
+    "groundTruthBits": "110101110010011101000011001110000110100100101010010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:21.855Z"
+    }
+  },
+  {
+    "id": 330,
+    "filename": "seal_0330.jpg",
+    "lot": "LOT-AI-2026-0330",
+    "groundTruthBits": "000000100101001010100110001100000010101000001110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:22.001Z"
+    }
+  },
+  {
+    "id": 331,
+    "filename": "seal_0331.jpg",
+    "lot": "LOT-AI-2026-0331",
+    "groundTruthBits": "100001000010100110111010001010101110110110001111101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:22.105Z"
+    }
+  },
+  {
+    "id": 332,
+    "filename": "seal_0332.jpg",
+    "lot": "LOT-AI-2026-0332",
+    "groundTruthBits": "110111001101110100100011010111111011111000110110111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:22.200Z"
+    }
+  },
+  {
+    "id": 333,
+    "filename": "seal_0333.jpg",
+    "lot": "LOT-AI-2026-0333",
+    "groundTruthBits": "101111000010010111111000110111101001101010000100100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:22.315Z"
+    }
+  },
+  {
+    "id": 334,
+    "filename": "seal_0334.jpg",
+    "lot": "LOT-AI-2026-0334",
+    "groundTruthBits": "101101000100001000001110010001110100010000010010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:22.570Z"
+    }
+  },
+  {
+    "id": 335,
+    "filename": "seal_0335.jpg",
+    "lot": "LOT-AI-2026-0335",
+    "groundTruthBits": "001111000000111110110010101100011111111001110111101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:22.735Z"
+    }
+  },
+  {
+    "id": 336,
+    "filename": "seal_0336.jpg",
+    "lot": "LOT-AI-2026-0336",
+    "groundTruthBits": "000000010110000011000111100010100101010011101000011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:22.835Z"
+    }
+  },
+  {
+    "id": 337,
+    "filename": "seal_0337.jpg",
+    "lot": "LOT-AI-2026-0337",
+    "groundTruthBits": "110000000111110001110111010101111011000100110110010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:22.912Z"
+    }
+  },
+  {
+    "id": 338,
+    "filename": "seal_0338.jpg",
+    "lot": "LOT-AI-2026-0338",
+    "groundTruthBits": "101001001111001001111101010010111010001000011110100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:22.992Z"
+    }
+  },
+  {
+    "id": 339,
+    "filename": "seal_0339.jpg",
+    "lot": "LOT-AI-2026-0339",
+    "groundTruthBits": "000110011001110011010110111001000110100010001110000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:23.075Z"
+    }
+  },
+  {
+    "id": 340,
+    "filename": "seal_0340.jpg",
+    "lot": "LOT-AI-2026-0340",
+    "groundTruthBits": "010000100000101101111010001000100000111100001010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:23.244Z"
+    }
+  },
+  {
+    "id": 341,
+    "filename": "seal_0341.jpg",
+    "lot": "LOT-AI-2026-0341",
+    "groundTruthBits": "011010110011011000111000010011101000010000101111100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:23.399Z"
+    }
+  },
+  {
+    "id": 342,
+    "filename": "seal_0342.jpg",
+    "lot": "LOT-AI-2026-0342",
+    "groundTruthBits": "101100111001001010111111110111111101010010111101010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:23.612Z"
+    }
+  },
+  {
+    "id": 343,
+    "filename": "seal_0343.jpg",
+    "lot": "LOT-AI-2026-0343",
+    "groundTruthBits": "100010001011110001111110100010011001010011111011001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:24.004Z"
+    }
+  },
+  {
+    "id": 344,
+    "filename": "seal_0344.jpg",
+    "lot": "LOT-AI-2026-0344",
+    "groundTruthBits": "111100001100001001010110001000100011100001000011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:24.436Z"
+    }
+  },
+  {
+    "id": 345,
+    "filename": "seal_0345.jpg",
+    "lot": "LOT-AI-2026-0345",
+    "groundTruthBits": "111100011000111111100110110000101101111010101111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:24.882Z"
+    }
+  },
+  {
+    "id": 346,
+    "filename": "seal_0346.jpg",
+    "lot": "LOT-AI-2026-0346",
+    "groundTruthBits": "000011110010001010000101010011001001011100100001110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:25.057Z"
+    }
+  },
+  {
+    "id": 347,
+    "filename": "seal_0347.jpg",
+    "lot": "LOT-AI-2026-0347",
+    "groundTruthBits": "011101001110001101100111011111011100110011111001110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:25.181Z"
+    }
+  },
+  {
+    "id": 348,
+    "filename": "seal_0348.jpg",
+    "lot": "LOT-AI-2026-0348",
+    "groundTruthBits": "010101100001100111111100011111010110001111101010100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:25.287Z"
+    }
+  },
+  {
+    "id": 349,
+    "filename": "seal_0349.jpg",
+    "lot": "LOT-AI-2026-0349",
+    "groundTruthBits": "110111010000010101010011011111110010000000010110000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:25.394Z"
+    }
+  },
+  {
+    "id": 350,
+    "filename": "seal_0350.jpg",
+    "lot": "LOT-AI-2026-0350",
+    "groundTruthBits": "001010110001110110001001010111100010111100110001001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:25.558Z"
+    }
+  },
+  {
+    "id": 351,
+    "filename": "seal_0351.jpg",
+    "lot": "LOT-AI-2026-0351",
+    "groundTruthBits": "000010011000100111000011101100000100000001100101011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:25.681Z"
+    }
+  },
+  {
+    "id": 352,
+    "filename": "seal_0352.jpg",
+    "lot": "LOT-AI-2026-0352",
+    "groundTruthBits": "001111100101011101110011110001100011001110011010111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:25.770Z"
+    }
+  },
+  {
+    "id": 353,
+    "filename": "seal_0353.jpg",
+    "lot": "LOT-AI-2026-0353",
+    "groundTruthBits": "100011100111001001011010101010101011110101100110111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:26.098Z"
+    }
+  },
+  {
+    "id": 354,
+    "filename": "seal_0354.jpg",
+    "lot": "LOT-AI-2026-0354",
+    "groundTruthBits": "010100111001111001110111000111000110110100101100000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:26.458Z"
+    }
+  },
+  {
+    "id": 355,
+    "filename": "seal_0355.jpg",
+    "lot": "LOT-AI-2026-0355",
+    "groundTruthBits": "011001011010010100001101110000001000000110010100101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:26.650Z"
+    }
+  },
+  {
+    "id": 356,
+    "filename": "seal_0356.jpg",
+    "lot": "LOT-AI-2026-0356",
+    "groundTruthBits": "111110101011111001111011101010000000100000000010000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:26.794Z"
+    }
+  },
+  {
+    "id": 357,
+    "filename": "seal_0357.jpg",
+    "lot": "LOT-AI-2026-0357",
+    "groundTruthBits": "010010100110000101100011011001000001101110110100100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:26.930Z"
+    }
+  },
+  {
+    "id": 358,
+    "filename": "seal_0358.jpg",
+    "lot": "LOT-AI-2026-0358",
+    "groundTruthBits": "000110110000101110000001100000110011101110001111100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:27.044Z"
+    }
+  },
+  {
+    "id": 359,
+    "filename": "seal_0359.jpg",
+    "lot": "LOT-AI-2026-0359",
+    "groundTruthBits": "110001000010000011001111001011000001101110111000001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:27.164Z"
+    }
+  },
+  {
+    "id": 360,
+    "filename": "seal_0360.jpg",
+    "lot": "LOT-AI-2026-0360",
+    "groundTruthBits": "010110001000001000101100001010111101100111111000000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:27.272Z"
+    }
+  },
+  {
+    "id": 361,
+    "filename": "seal_0361.jpg",
+    "lot": "LOT-AI-2026-0361",
+    "groundTruthBits": "110001101000001100001100111001001001000001110111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:27.510Z"
+    }
+  },
+  {
+    "id": 362,
+    "filename": "seal_0362.jpg",
+    "lot": "LOT-AI-2026-0362",
+    "groundTruthBits": "011101010001111100111110111111110001011001000000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:28.006Z"
+    }
+  },
+  {
+    "id": 363,
+    "filename": "seal_0363.jpg",
+    "lot": "LOT-AI-2026-0363",
+    "groundTruthBits": "111100011111011100000011100110000111001011010010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:28.153Z"
+    }
+  },
+  {
+    "id": 364,
+    "filename": "seal_0364.jpg",
+    "lot": "LOT-AI-2026-0364",
+    "groundTruthBits": "011011010101101011100001101011001110010011100010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:28.340Z"
+    }
+  },
+  {
+    "id": 365,
+    "filename": "seal_0365.jpg",
+    "lot": "LOT-AI-2026-0365",
+    "groundTruthBits": "011111101100110111111011010110111001100110000110010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:28.442Z"
+    }
+  },
+  {
+    "id": 366,
+    "filename": "seal_0366.jpg",
+    "lot": "LOT-AI-2026-0366",
+    "groundTruthBits": "100000100111110000010011010001011111110001000010010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:28.562Z"
+    }
+  },
+  {
+    "id": 367,
+    "filename": "seal_0367.jpg",
+    "lot": "LOT-AI-2026-0367",
+    "groundTruthBits": "111111100111001110100000101010110110101100101011000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:28.664Z"
+    }
+  },
+  {
+    "id": 368,
+    "filename": "seal_0368.jpg",
+    "lot": "LOT-AI-2026-0368",
+    "groundTruthBits": "101111110011111101111110000001110101000111100011001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:28.747Z"
+    }
+  },
+  {
+    "id": 369,
+    "filename": "seal_0369.jpg",
+    "lot": "LOT-AI-2026-0369",
+    "groundTruthBits": "100011101100010010101100010111111111010010000111011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:28.828Z"
+    }
+  },
+  {
+    "id": 370,
+    "filename": "seal_0370.jpg",
+    "lot": "LOT-AI-2026-0370",
+    "groundTruthBits": "100000000100010101000011010011111110101111001100101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:28.913Z"
+    }
+  },
+  {
+    "id": 371,
+    "filename": "seal_0371.jpg",
+    "lot": "LOT-AI-2026-0371",
+    "groundTruthBits": "111111110010011000001011100001111011001111000000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:29.006Z"
+    }
+  },
+  {
+    "id": 372,
+    "filename": "seal_0372.jpg",
+    "lot": "LOT-AI-2026-0372",
+    "groundTruthBits": "010010010010001100011001011011001001010010000100101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:29.109Z"
+    }
+  },
+  {
+    "id": 373,
+    "filename": "seal_0373.jpg",
+    "lot": "LOT-AI-2026-0373",
+    "groundTruthBits": "011111111011111101001011100001110101000101000110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:29.295Z"
+    }
+  },
+  {
+    "id": 374,
+    "filename": "seal_0374.jpg",
+    "lot": "LOT-AI-2026-0374",
+    "groundTruthBits": "001000110101000101101111100100011101100101101101111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:29.602Z"
+    }
+  },
+  {
+    "id": 375,
+    "filename": "seal_0375.jpg",
+    "lot": "LOT-AI-2026-0375",
+    "groundTruthBits": "010001100000101000100100010100000110101101100010100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:29.785Z"
+    }
+  },
+  {
+    "id": 376,
+    "filename": "seal_0376.jpg",
+    "lot": "LOT-AI-2026-0376",
+    "groundTruthBits": "111100110010000001100000010101011100011000001010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:29.943Z"
+    }
+  },
+  {
+    "id": 377,
+    "filename": "seal_0377.jpg",
+    "lot": "LOT-AI-2026-0377",
+    "groundTruthBits": "111000111101110011100011111100111101111000001110100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:30.162Z"
+    }
+  },
+  {
+    "id": 378,
+    "filename": "seal_0378.jpg",
+    "lot": "LOT-AI-2026-0378",
+    "groundTruthBits": "001100010000010000101101010001000111111001000000101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:30.524Z"
+    }
+  },
+  {
+    "id": 379,
+    "filename": "seal_0379.jpg",
+    "lot": "LOT-AI-2026-0379",
+    "groundTruthBits": "001010001101101111111101111111111001101111011111010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:30.875Z"
+    }
+  },
+  {
+    "id": 380,
+    "filename": "seal_0380.jpg",
+    "lot": "LOT-AI-2026-0380",
+    "groundTruthBits": "001000001111011000110100101001111010000001100010101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:31.103Z"
+    }
+  },
+  {
+    "id": 381,
+    "filename": "seal_0381.jpg",
+    "lot": "LOT-AI-2026-0381",
+    "groundTruthBits": "100011000100011100101011111110000100010110101111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:31.206Z"
+    }
+  },
+  {
+    "id": 382,
+    "filename": "seal_0382.jpg",
+    "lot": "LOT-AI-2026-0382",
+    "groundTruthBits": "110110011100011100110101101110110011000001011100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:31.313Z"
+    }
+  },
+  {
+    "id": 383,
+    "filename": "seal_0383.jpg",
+    "lot": "LOT-AI-2026-0383",
+    "groundTruthBits": "000100001110101010101010010100000010001110101000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:31.437Z"
+    }
+  },
+  {
+    "id": 384,
+    "filename": "seal_0384.jpg",
+    "lot": "LOT-AI-2026-0384",
+    "groundTruthBits": "010000110011011101110111010010110011110110010010000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:31.561Z"
+    }
+  },
+  {
+    "id": 385,
+    "filename": "seal_0385.jpg",
+    "lot": "LOT-AI-2026-0385",
+    "groundTruthBits": "110100110000111111000010001111010111100010110001010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:31.672Z"
+    }
+  },
+  {
+    "id": 386,
+    "filename": "seal_0386.jpg",
+    "lot": "LOT-AI-2026-0386",
+    "groundTruthBits": "010111001111110011010000100101011100011101001001100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:31.784Z"
+    }
+  },
+  {
+    "id": 387,
+    "filename": "seal_0387.jpg",
+    "lot": "LOT-AI-2026-0387",
+    "groundTruthBits": "000000111011011011101111111010000010110111000010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:31.874Z"
+    }
+  },
+  {
+    "id": 388,
+    "filename": "seal_0388.jpg",
+    "lot": "LOT-AI-2026-0388",
+    "groundTruthBits": "111001111100110010011001001101000100101010001010011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:31.962Z"
+    }
+  },
+  {
+    "id": 389,
+    "filename": "seal_0389.jpg",
+    "lot": "LOT-AI-2026-0389",
+    "groundTruthBits": "011110100111100100111010100000100011011011101001110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:32.055Z"
+    }
+  },
+  {
+    "id": 390,
+    "filename": "seal_0390.jpg",
+    "lot": "LOT-AI-2026-0390",
+    "groundTruthBits": "010111100100100000010001001100111010101011110010100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:32.154Z"
+    }
+  },
+  {
+    "id": 391,
+    "filename": "seal_0391.jpg",
+    "lot": "LOT-AI-2026-0391",
+    "groundTruthBits": "001111100000001101111001011100111010010011000001101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:32.330Z"
+    }
+  },
+  {
+    "id": 392,
+    "filename": "seal_0392.jpg",
+    "lot": "LOT-AI-2026-0392",
+    "groundTruthBits": "010111001010010101000010011100101001000001100111111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:33.002Z"
+    }
+  },
+  {
+    "id": 393,
+    "filename": "seal_0393.jpg",
+    "lot": "LOT-AI-2026-0393",
+    "groundTruthBits": "010100010001111110000100001101000110110110111001001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:33.187Z"
+    }
+  },
+  {
+    "id": 394,
+    "filename": "seal_0394.jpg",
+    "lot": "LOT-AI-2026-0394",
+    "groundTruthBits": "111100010110001110011111010001010010110100010010010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:33.285Z"
+    }
+  },
+  {
+    "id": 395,
+    "filename": "seal_0395.jpg",
+    "lot": "LOT-AI-2026-0395",
+    "groundTruthBits": "111110001011010001000111010010101100111000110110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:33.369Z"
+    }
+  },
+  {
+    "id": 396,
+    "filename": "seal_0396.jpg",
+    "lot": "LOT-AI-2026-0396",
+    "groundTruthBits": "110010011000110100000001100010110100010111001110110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:33.458Z"
+    }
+  },
+  {
+    "id": 397,
+    "filename": "seal_0397.jpg",
+    "lot": "LOT-AI-2026-0397",
+    "groundTruthBits": "000000011010001001001010000110101101001010001100111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:33.569Z"
+    }
+  },
+  {
+    "id": 398,
+    "filename": "seal_0398.jpg",
+    "lot": "LOT-AI-2026-0398",
+    "groundTruthBits": "001010111111111011011010110000010010000100001100010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:33.699Z"
+    }
+  },
+  {
+    "id": 399,
+    "filename": "seal_0399.jpg",
+    "lot": "LOT-AI-2026-0399",
+    "groundTruthBits": "000011110100101010100101011101001100111000101101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:33.875Z"
+    }
+  },
+  {
+    "id": 400,
+    "filename": "seal_0400.jpg",
+    "lot": "LOT-AI-2026-0400",
+    "groundTruthBits": "100110010000110001101110101101000111010100111000011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:34.065Z"
+    }
+  },
+  {
+    "id": 401,
+    "filename": "seal_0401.jpg",
+    "lot": "LOT-AI-2026-0401",
+    "groundTruthBits": "110101011101101111110011100110010010100001110101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:34.258Z"
+    }
+  },
+  {
+    "id": 402,
+    "filename": "seal_0402.jpg",
+    "lot": "LOT-AI-2026-0402",
+    "groundTruthBits": "110001001110110000101000010101000101001111000110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:34.569Z"
+    }
+  },
+  {
+    "id": 403,
+    "filename": "seal_0403.jpg",
+    "lot": "LOT-AI-2026-0403",
+    "groundTruthBits": "101111010101101001010101110010010010101010101011100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:34.643Z"
+    }
+  },
+  {
+    "id": 404,
+    "filename": "seal_0404.jpg",
+    "lot": "LOT-AI-2026-0404",
+    "groundTruthBits": "111110000100000100011111001001010111110100010101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:34.716Z"
+    }
+  },
+  {
+    "id": 405,
+    "filename": "seal_0405.jpg",
+    "lot": "LOT-AI-2026-0405",
+    "groundTruthBits": "101010000110111000011011001010011011110101001100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:34.883Z"
+    }
+  },
+  {
+    "id": 406,
+    "filename": "seal_0406.jpg",
+    "lot": "LOT-AI-2026-0406",
+    "groundTruthBits": "110010101100001101101100010100001001111111110011010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:35.015Z"
+    }
+  },
+  {
+    "id": 407,
+    "filename": "seal_0407.jpg",
+    "lot": "LOT-AI-2026-0407",
+    "groundTruthBits": "101011000011111110010101001111110011110010001001100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:35.125Z"
+    }
+  },
+  {
+    "id": 408,
+    "filename": "seal_0408.jpg",
+    "lot": "LOT-AI-2026-0408",
+    "groundTruthBits": "100100101011001101100010111111011101010110100110000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:35.483Z"
+    }
+  },
+  {
+    "id": 409,
+    "filename": "seal_0409.jpg",
+    "lot": "LOT-AI-2026-0409",
+    "groundTruthBits": "111011011000011110101110110111100010010010001101010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:35.803Z"
+    }
+  },
+  {
+    "id": 410,
+    "filename": "seal_0410.jpg",
+    "lot": "LOT-AI-2026-0410",
+    "groundTruthBits": "111110011101010111110001101001001111001001011011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:35.945Z"
+    }
+  },
+  {
+    "id": 411,
+    "filename": "seal_0411.jpg",
+    "lot": "LOT-AI-2026-0411",
+    "groundTruthBits": "110011100001110111011001011110011001101011110100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.085Z"
+    }
+  },
+  {
+    "id": 412,
+    "filename": "seal_0412.jpg",
+    "lot": "LOT-AI-2026-0412",
+    "groundTruthBits": "110100001001000110010111011011011000100101111010111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.175Z"
+    }
+  },
+  {
+    "id": 413,
+    "filename": "seal_0413.jpg",
+    "lot": "LOT-AI-2026-0413",
+    "groundTruthBits": "110011111101001110010111010001000111000011110001000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.254Z"
+    }
+  },
+  {
+    "id": 414,
+    "filename": "seal_0414.jpg",
+    "lot": "LOT-AI-2026-0414",
+    "groundTruthBits": "100101100111100111101100101000011000101111010011110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.333Z"
+    }
+  },
+  {
+    "id": 415,
+    "filename": "seal_0415.jpg",
+    "lot": "LOT-AI-2026-0415",
+    "groundTruthBits": "010000010010100101111100110001100101110000101111110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.406Z"
+    }
+  },
+  {
+    "id": 416,
+    "filename": "seal_0416.jpg",
+    "lot": "LOT-AI-2026-0416",
+    "groundTruthBits": "101011101110101111100101110000000101101101001000101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.482Z"
+    }
+  },
+  {
+    "id": 417,
+    "filename": "seal_0417.jpg",
+    "lot": "LOT-AI-2026-0417",
+    "groundTruthBits": "101011011101111110010111100110000010101110001110100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.556Z"
+    }
+  },
+  {
+    "id": 418,
+    "filename": "seal_0418.jpg",
+    "lot": "LOT-AI-2026-0418",
+    "groundTruthBits": "001101010101011110111010010010001011111111100010001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.635Z"
+    }
+  },
+  {
+    "id": 419,
+    "filename": "seal_0419.jpg",
+    "lot": "LOT-AI-2026-0419",
+    "groundTruthBits": "111011001011110000011010101010111000001111011011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.721Z"
+    }
+  },
+  {
+    "id": 420,
+    "filename": "seal_0420.jpg",
+    "lot": "LOT-AI-2026-0420",
+    "groundTruthBits": "010111111000010010001110100000000110111111000110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.852Z"
+    }
+  },
+  {
+    "id": 421,
+    "filename": "seal_0421.jpg",
+    "lot": "LOT-AI-2026-0421",
+    "groundTruthBits": "010001110011010100101110011100110011110101001011101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:36.968Z"
+    }
+  },
+  {
+    "id": 422,
+    "filename": "seal_0422.jpg",
+    "lot": "LOT-AI-2026-0422",
+    "groundTruthBits": "010001010111100111111001111110111010100111011111110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:37.269Z"
+    }
+  },
+  {
+    "id": 423,
+    "filename": "seal_0423.jpg",
+    "lot": "LOT-AI-2026-0423",
+    "groundTruthBits": "111011011111101111011111010100000100110000000010100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:37.390Z"
+    }
+  },
+  {
+    "id": 424,
+    "filename": "seal_0424.jpg",
+    "lot": "LOT-AI-2026-0424",
+    "groundTruthBits": "101010111110100110111111100001101000100100101001101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:37.548Z"
+    }
+  },
+  {
+    "id": 425,
+    "filename": "seal_0425.jpg",
+    "lot": "LOT-AI-2026-0425",
+    "groundTruthBits": "011011110111101000011100011110111001010111000001011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:37.729Z"
+    }
+  },
+  {
+    "id": 426,
+    "filename": "seal_0426.jpg",
+    "lot": "LOT-AI-2026-0426",
+    "groundTruthBits": "000001100111000001001000001001101100110000011110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:37.873Z"
+    }
+  },
+  {
+    "id": 427,
+    "filename": "seal_0427.jpg",
+    "lot": "LOT-AI-2026-0427",
+    "groundTruthBits": "000100110010101001111111111010111100011110111010111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:37.948Z"
+    }
+  },
+  {
+    "id": 428,
+    "filename": "seal_0428.jpg",
+    "lot": "LOT-AI-2026-0428",
+    "groundTruthBits": "101011100101011000000111010101111001111011011010110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.023Z"
+    }
+  },
+  {
+    "id": 429,
+    "filename": "seal_0429.jpg",
+    "lot": "LOT-AI-2026-0429",
+    "groundTruthBits": "101100110011011110010111001010010110110100001100111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.094Z"
+    }
+  },
+  {
+    "id": 430,
+    "filename": "seal_0430.jpg",
+    "lot": "LOT-AI-2026-0430",
+    "groundTruthBits": "010000011011110110100001101011000110100101001110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.177Z"
+    }
+  },
+  {
+    "id": 431,
+    "filename": "seal_0431.jpg",
+    "lot": "LOT-AI-2026-0431",
+    "groundTruthBits": "000010000111011001100010110011101101001101010100110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.262Z"
+    }
+  },
+  {
+    "id": 432,
+    "filename": "seal_0432.jpg",
+    "lot": "LOT-AI-2026-0432",
+    "groundTruthBits": "000001111101010001110110001100101010001111011011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.342Z"
+    }
+  },
+  {
+    "id": 433,
+    "filename": "seal_0433.jpg",
+    "lot": "LOT-AI-2026-0433",
+    "groundTruthBits": "100011110010110101101111101011110000010101011000000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.417Z"
+    }
+  },
+  {
+    "id": 434,
+    "filename": "seal_0434.jpg",
+    "lot": "LOT-AI-2026-0434",
+    "groundTruthBits": "111001000100011110100111001011101001100101011011101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.509Z"
+    }
+  },
+  {
+    "id": 435,
+    "filename": "seal_0435.jpg",
+    "lot": "LOT-AI-2026-0435",
+    "groundTruthBits": "001000100100011110101101110111101111000101111100100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.587Z"
+    }
+  },
+  {
+    "id": 436,
+    "filename": "seal_0436.jpg",
+    "lot": "LOT-AI-2026-0436",
+    "groundTruthBits": "001001011000111001111001010010000011101011001010000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.666Z"
+    }
+  },
+  {
+    "id": 437,
+    "filename": "seal_0437.jpg",
+    "lot": "LOT-AI-2026-0437",
+    "groundTruthBits": "110100001011011001111101000100001000101111010001100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.744Z"
+    }
+  },
+  {
+    "id": 438,
+    "filename": "seal_0438.jpg",
+    "lot": "LOT-AI-2026-0438",
+    "groundTruthBits": "000100101000000110001111110101100111101010100110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.828Z"
+    }
+  },
+  {
+    "id": 439,
+    "filename": "seal_0439.jpg",
+    "lot": "LOT-AI-2026-0439",
+    "groundTruthBits": "011101101011011111011101111011001110010101001001010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:38.941Z"
+    }
+  },
+  {
+    "id": 440,
+    "filename": "seal_0440.jpg",
+    "lot": "LOT-AI-2026-0440",
+    "groundTruthBits": "001100101000000101101101101101111100101011001101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:39.092Z"
+    }
+  },
+  {
+    "id": 441,
+    "filename": "seal_0441.jpg",
+    "lot": "LOT-AI-2026-0441",
+    "groundTruthBits": "000101110010101010111100010010001111000011001101010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:39.249Z"
+    }
+  },
+  {
+    "id": 442,
+    "filename": "seal_0442.jpg",
+    "lot": "LOT-AI-2026-0442",
+    "groundTruthBits": "101111111010111100010100101110111111100011100100101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:39.400Z"
+    }
+  },
+  {
+    "id": 443,
+    "filename": "seal_0443.jpg",
+    "lot": "LOT-AI-2026-0443",
+    "groundTruthBits": "000100000100100111100101101000000011010010101010100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:39.544Z"
+    }
+  },
+  {
+    "id": 444,
+    "filename": "seal_0444.jpg",
+    "lot": "LOT-AI-2026-0444",
+    "groundTruthBits": "100110000000000111111100010101000100001000000010111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:39.673Z"
+    }
+  },
+  {
+    "id": 445,
+    "filename": "seal_0445.jpg",
+    "lot": "LOT-AI-2026-0445",
+    "groundTruthBits": "000110010001011010101101100111010111000101001100001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:40.124Z"
+    }
+  },
+  {
+    "id": 446,
+    "filename": "seal_0446.jpg",
+    "lot": "LOT-AI-2026-0446",
+    "groundTruthBits": "011011111111100110011011000111000101111011011110100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:40.422Z"
+    }
+  },
+  {
+    "id": 447,
+    "filename": "seal_0447.jpg",
+    "lot": "LOT-AI-2026-0447",
+    "groundTruthBits": "110110001100110100101100111000111111101001011100111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:40.779Z"
+    }
+  },
+  {
+    "id": 448,
+    "filename": "seal_0448.jpg",
+    "lot": "LOT-AI-2026-0448",
+    "groundTruthBits": "011000110000101001111100111110111001100101101110111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:41.071Z"
+    }
+  },
+  {
+    "id": 449,
+    "filename": "seal_0449.jpg",
+    "lot": "LOT-AI-2026-0449",
+    "groundTruthBits": "001110101010100101100110000001011010111110111101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:41.225Z"
+    }
+  },
+  {
+    "id": 450,
+    "filename": "seal_0450.jpg",
+    "lot": "LOT-AI-2026-0450",
+    "groundTruthBits": "000011000111110000101001010010001011000110101001110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:41.470Z"
+    }
+  },
+  {
+    "id": 451,
+    "filename": "seal_0451.jpg",
+    "lot": "LOT-AI-2026-0451",
+    "groundTruthBits": "000001110100001101001100011101000010101111101100100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:41.619Z"
+    }
+  },
+  {
+    "id": 452,
+    "filename": "seal_0452.jpg",
+    "lot": "LOT-AI-2026-0452",
+    "groundTruthBits": "101001010111001101010100100101111010011110000101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:41.714Z"
+    }
+  },
+  {
+    "id": 453,
+    "filename": "seal_0453.jpg",
+    "lot": "LOT-AI-2026-0453",
+    "groundTruthBits": "111010101110110010110100010000101100011101011111100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:41.801Z"
+    }
+  },
+  {
+    "id": 454,
+    "filename": "seal_0454.jpg",
+    "lot": "LOT-AI-2026-0454",
+    "groundTruthBits": "110000001101100001110010010100101010111000101110001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:41.889Z"
+    }
+  },
+  {
+    "id": 455,
+    "filename": "seal_0455.jpg",
+    "lot": "LOT-AI-2026-0455",
+    "groundTruthBits": "100111000111100001000000011101100001101010011110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:41.976Z"
+    }
+  },
+  {
+    "id": 456,
+    "filename": "seal_0456.jpg",
+    "lot": "LOT-AI-2026-0456",
+    "groundTruthBits": "010010011000100111101101000011111100010111000000111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:42.069Z"
+    }
+  },
+  {
+    "id": 457,
+    "filename": "seal_0457.jpg",
+    "lot": "LOT-AI-2026-0457",
+    "groundTruthBits": "000110100010101110110011000001100001100000101001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:42.151Z"
+    }
+  },
+  {
+    "id": 458,
+    "filename": "seal_0458.jpg",
+    "lot": "LOT-AI-2026-0458",
+    "groundTruthBits": "101101100110101010010001010010101100111010100101010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:42.237Z"
+    }
+  },
+  {
+    "id": 459,
+    "filename": "seal_0459.jpg",
+    "lot": "LOT-AI-2026-0459",
+    "groundTruthBits": "000111011100000111100101111011111000010001110000111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:42.325Z"
+    }
+  },
+  {
+    "id": 460,
+    "filename": "seal_0460.jpg",
+    "lot": "LOT-AI-2026-0460",
+    "groundTruthBits": "110010001111100110010010010001101111100110101100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:42.409Z"
+    }
+  },
+  {
+    "id": 461,
+    "filename": "seal_0461.jpg",
+    "lot": "LOT-AI-2026-0461",
+    "groundTruthBits": "010001000000100110011001110110011101100010010010001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:42.517Z"
+    }
+  },
+  {
+    "id": 462,
+    "filename": "seal_0462.jpg",
+    "lot": "LOT-AI-2026-0462",
+    "groundTruthBits": "110100010111000011011011011101101010100010100101101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:42.707Z"
+    }
+  },
+  {
+    "id": 463,
+    "filename": "seal_0463.jpg",
+    "lot": "LOT-AI-2026-0463",
+    "groundTruthBits": "101010010101100001000111100001000101000010001111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:42.914Z"
+    }
+  },
+  {
+    "id": 464,
+    "filename": "seal_0464.jpg",
+    "lot": "LOT-AI-2026-0464",
+    "groundTruthBits": "001011111101011000101110100101011001101110111001001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:43.185Z"
+    }
+  },
+  {
+    "id": 465,
+    "filename": "seal_0465.jpg",
+    "lot": "LOT-AI-2026-0465",
+    "groundTruthBits": "001010001000111010110110110100101111001000010011110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:43.301Z"
+    }
+  },
+  {
+    "id": 466,
+    "filename": "seal_0466.jpg",
+    "lot": "LOT-AI-2026-0466",
+    "groundTruthBits": "101111000100110111001010101010011011011110011001111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:43.418Z"
+    }
+  },
+  {
+    "id": 467,
+    "filename": "seal_0467.jpg",
+    "lot": "LOT-AI-2026-0467",
+    "groundTruthBits": "100110100011001001110011001000101111011001010010101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:43.523Z"
+    }
+  },
+  {
+    "id": 468,
+    "filename": "seal_0468.jpg",
+    "lot": "LOT-AI-2026-0468",
+    "groundTruthBits": "101110010010110001100000001001001101100111001110110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:43.636Z"
+    }
+  },
+  {
+    "id": 469,
+    "filename": "seal_0469.jpg",
+    "lot": "LOT-AI-2026-0469",
+    "groundTruthBits": "111101000001001101111110011000100110101001000000011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:43.733Z"
+    }
+  },
+  {
+    "id": 470,
+    "filename": "seal_0470.jpg",
+    "lot": "LOT-AI-2026-0470",
+    "groundTruthBits": "010000111011101110001010101011011100001101110100100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:43.819Z"
+    }
+  },
+  {
+    "id": 471,
+    "filename": "seal_0471.jpg",
+    "lot": "LOT-AI-2026-0471",
+    "groundTruthBits": "010101010100100001100001001001001111010101011010000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:44.007Z"
+    }
+  },
+  {
+    "id": 472,
+    "filename": "seal_0472.jpg",
+    "lot": "LOT-AI-2026-0472",
+    "groundTruthBits": "001100001111101011111111111101010001101011110100101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:44.088Z"
+    }
+  },
+  {
+    "id": 473,
+    "filename": "seal_0473.jpg",
+    "lot": "LOT-AI-2026-0473",
+    "groundTruthBits": "101011110101111101011101111101100000110100010100011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:44.234Z"
+    }
+  },
+  {
+    "id": 474,
+    "filename": "seal_0474.jpg",
+    "lot": "LOT-AI-2026-0474",
+    "groundTruthBits": "010111111010100110011010111110000111110100001010001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:44.364Z"
+    }
+  },
+  {
+    "id": 475,
+    "filename": "seal_0475.jpg",
+    "lot": "LOT-AI-2026-0475",
+    "groundTruthBits": "101001000011001101110001011010100000010111001011101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:44.472Z"
+    }
+  },
+  {
+    "id": 476,
+    "filename": "seal_0476.jpg",
+    "lot": "LOT-AI-2026-0476",
+    "groundTruthBits": "100111100111100011010101011000001111001000110101010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:44.600Z"
+    }
+  },
+  {
+    "id": 477,
+    "filename": "seal_0477.jpg",
+    "lot": "LOT-AI-2026-0477",
+    "groundTruthBits": "101110101011011001001101001011000000101000101000100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:44.742Z"
+    }
+  },
+  {
+    "id": 478,
+    "filename": "seal_0478.jpg",
+    "lot": "LOT-AI-2026-0478",
+    "groundTruthBits": "110000101011100000100101011100000111101111101010111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:45.075Z"
+    }
+  },
+  {
+    "id": 479,
+    "filename": "seal_0479.jpg",
+    "lot": "LOT-AI-2026-0479",
+    "groundTruthBits": "001100000101100011010010111111011011001000111011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:45.154Z"
+    }
+  },
+  {
+    "id": 480,
+    "filename": "seal_0480.jpg",
+    "lot": "LOT-AI-2026-0480",
+    "groundTruthBits": "011101001111101100111111100110010011101111111100111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:45.230Z"
+    }
+  },
+  {
+    "id": 481,
+    "filename": "seal_0481.jpg",
+    "lot": "LOT-AI-2026-0481",
+    "groundTruthBits": "111000110111000111010011001000000001011101110100001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:45.312Z"
+    }
+  },
+  {
+    "id": 482,
+    "filename": "seal_0482.jpg",
+    "lot": "LOT-AI-2026-0482",
+    "groundTruthBits": "000111110101011000001001100011000111000101000011011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:45.389Z"
+    }
+  },
+  {
+    "id": 483,
+    "filename": "seal_0483.jpg",
+    "lot": "LOT-AI-2026-0483",
+    "groundTruthBits": "110111001100100011011101111010110011001111101101000",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:45.531Z"
+    }
+  },
+  {
+    "id": 484,
+    "filename": "seal_0484.jpg",
+    "lot": "LOT-AI-2026-0484",
+    "groundTruthBits": "111101110001010010001111001101010011000010111110101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:45.767Z"
+    }
+  },
+  {
+    "id": 485,
+    "filename": "seal_0485.jpg",
+    "lot": "LOT-AI-2026-0485",
+    "groundTruthBits": "010100010111111110101100111011001111111100000011101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:46.018Z"
+    }
+  },
+  {
+    "id": 486,
+    "filename": "seal_0486.jpg",
+    "lot": "LOT-AI-2026-0486",
+    "groundTruthBits": "011101110101100100001001001100101010000111010011111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:46.213Z"
+    }
+  },
+  {
+    "id": 487,
+    "filename": "seal_0487.jpg",
+    "lot": "LOT-AI-2026-0487",
+    "groundTruthBits": "000110001101000101101011100111100110001111000111001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:46.399Z"
+    }
+  },
+  {
+    "id": 488,
+    "filename": "seal_0488.jpg",
+    "lot": "LOT-AI-2026-0488",
+    "groundTruthBits": "111000101110011110101000011100100010001110111000010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:46.556Z"
+    }
+  },
+  {
+    "id": 489,
+    "filename": "seal_0489.jpg",
+    "lot": "LOT-AI-2026-0489",
+    "groundTruthBits": "110000010111111101101110101111001111111000001000001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:46.682Z"
+    }
+  },
+  {
+    "id": 490,
+    "filename": "seal_0490.jpg",
+    "lot": "LOT-AI-2026-0490",
+    "groundTruthBits": "101110110100011110111101010110100001110000011000110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:46.784Z"
+    }
+  },
+  {
+    "id": 491,
+    "filename": "seal_0491.jpg",
+    "lot": "LOT-AI-2026-0491",
+    "groundTruthBits": "000101000111101001110101111011110010100001011110011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:46.905Z"
+    }
+  },
+  {
+    "id": 492,
+    "filename": "seal_0492.jpg",
+    "lot": "LOT-AI-2026-0492",
+    "groundTruthBits": "000011000010111110011011110011010110111101010111011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:47.066Z"
+    }
+  },
+  {
+    "id": 493,
+    "filename": "seal_0493.jpg",
+    "lot": "LOT-AI-2026-0493",
+    "groundTruthBits": "101100101101000110011101001000011011110110000001100",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:47.316Z"
+    }
+  },
+  {
+    "id": 494,
+    "filename": "seal_0494.jpg",
+    "lot": "LOT-AI-2026-0494",
+    "groundTruthBits": "010101100011001010000111011011010101011000011011001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:47.435Z"
+    }
+  },
+  {
+    "id": 495,
+    "filename": "seal_0495.jpg",
+    "lot": "LOT-AI-2026-0495",
+    "groundTruthBits": "010100011011000110011001110000101011101110011101110",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:47.521Z"
+    }
+  },
+  {
+    "id": 496,
+    "filename": "seal_0496.jpg",
+    "lot": "LOT-AI-2026-0496",
+    "groundTruthBits": "000111111110011100111010111011101011011000111100010",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:47.613Z"
+    }
+  },
+  {
+    "id": 497,
+    "filename": "seal_0497.jpg",
+    "lot": "LOT-AI-2026-0497",
+    "groundTruthBits": "101101011000101100011110000010001010101010110110011",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:47.698Z"
+    }
+  },
+  {
+    "id": 498,
+    "filename": "seal_0498.jpg",
+    "lot": "LOT-AI-2026-0498",
+    "groundTruthBits": "101010010010100111110101100000110010100010000011101",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:47.781Z"
+    }
+  },
+  {
+    "id": 499,
+    "filename": "seal_0499.jpg",
+    "lot": "LOT-AI-2026-0499",
+    "groundTruthBits": "101001100111011111111111101011010011010110110101001",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:47.874Z"
+    }
+  },
+  {
+    "id": 500,
+    "filename": "seal_0500.jpg",
+    "lot": "LOT-AI-2026-0500",
+    "groundTruthBits": "110001001000000011010111111100110101110110010100111",
+    "metadata": {
+      "generatedAt": "2026-08-23T11:05:47.965Z"
+    }
+  }
+]
