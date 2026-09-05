@@ -2,7 +2,7 @@
  * ======================================================
  * SYSTEME SOUVERAIN DE CERTIFICATION ANOR
  * SERVER CORE (VERSION ARCHITECTURE HAUTE SÉCURITÉ + PYTORCH AI)
- * Version: 17.9.6 (Inférence PyTorch locale intégrée)
+ * Version: 17.9.7 (Inférence PyTorch locale sécurisée & bavarde)
  * ======================================================
  */
 
@@ -42,7 +42,7 @@ setInterval(() => {
 // VERSION / CONFIGURATION
 // ======================================================
 
-const SERVER_VERSION = "17.9.6-PYTORCH-SOUVERAIN";
+const SERVER_VERSION = "17.9.7-PYTORCH-SOUVERAIN";
 const VISUAL_VERSION = 1;
 const VISUAL_BITS_LENGTH = 51;
 const isProduction = process.env.NODE_ENV === "production";
@@ -105,26 +105,40 @@ function isValidUserAgent(agent) {
 }
 
 // ======================================================
-// INTÉGRATION DU MODÈLE PYTORCH LOCAL (VISION PAR IA)
+// INTÉGRATION DU MODÈLE PYTORCH LOCAL (VERSION BAVARDE & SÉCURISÉE)
 // ======================================================
 
 function runPyTorchInference(imageBuffer) {
+    let tempFilePath = null;
     try {
         const tempFileName = `temp_scan_${Date.now()}_${crypto.randomUUID()}.jpg`;
-        const tempFilePath = path.join(__dirname, tempFileName);
+        tempFilePath = path.join(__dirname, tempFileName);
         fs.writeFileSync(tempFilePath, imageBuffer);
 
-        // Appel direct du script d'inférence principal training/predict.py en mode CLI
-        const pythonCommand = `python training/predict.py "${tempFilePath}"`;
-        const resultBits = execSync(pythonCommand, { encoding: "utf-8" }).trim();
+        // Détection de l'exécutable python disponible (python ou python3)
+        const pythonExecutable = process.platform === "win32" ? "python" : "python3";
+        const pythonCommand = `${pythonExecutable} training/predict.py "${tempFilePath}"`;
+        
+        console.log(`[PYTORCH DEBUG] Exécution de la commande de vision : ${pythonCommand}`);
+        
+        const resultBits = execSync(pythonCommand, { encoding: "utf-8", stdio: ['pipe', 'pipe', 'pipe'] }).trim();
 
-        if (fs.existsSync(tempFilePath)) {
+        console.log(`[PYTORCH DEBUG] Bits bruts extraits par l'IA : "${resultBits}"`);
+
+        if (tempFilePath && fs.existsSync(tempFilePath)) {
             fs.unlinkSync(tempFilePath);
         }
 
         return normalizeVisualBits(resultBits);
     } catch (error) {
-        console.error("[PYTORCH INFERENCE ERROR]", error.message);
+        console.error("[PYTORCH INFERENCE CRITICAL ERROR]", {
+            message: error.message,
+            stderr: error.stderr ? error.stderr.toString() : "N/A",
+            stdout: error.stdout ? error.stdout.toString() : "N/A"
+        });
+        if (tempFilePath && fs.existsSync(tempFilePath)) {
+            try { fs.unlinkSync(tempFilePath); } catch (e) {}
+        }
         return null;
     }
 }
