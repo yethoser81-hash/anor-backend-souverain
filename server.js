@@ -459,6 +459,21 @@ app.get(["/", "/index.html"], (req, res) => {
 });
 
 // ======================================================
+// ROUTE API : AUDIT SÉCURITÉ CLIENT (ANTITAMPERING)
+// ======================================================
+
+app.post("/api/security/audit", (req, res) => {
+    try {
+        const auditData = req.body || {};
+        securityLog(req, "CLIENT_SECURITY_AUDIT_REPORT", auditData);
+        return apiSuccess(res, { message: "Rapport d'audit de sécurité enregistré avec succès." });
+    } catch (error) {
+        console.error("[SECURITY AUDIT ERROR]", error);
+        return apiError(res, 500, "AUDIT_ERROR", "Impossible d'enregistrer l'audit de sécurité.");
+    }
+});
+
+// ======================================================
 // HEALTH CHECK & DASHBOARD STATS API (100% DYNAMIQUE)
 // ======================================================
 
