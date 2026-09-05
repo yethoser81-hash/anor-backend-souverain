@@ -203,7 +203,7 @@ const defaultAllowedOrigins = [
     "http://localhost",
     "https://localhost",
     "capacitor://localhost",
-    "https://anor-backend.onrender.com"
+    "https://anor-backend-souverain.onrender.com"
 ];
 
 const configuredOrigins = String(
