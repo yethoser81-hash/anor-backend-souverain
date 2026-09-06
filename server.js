@@ -2,7 +2,7 @@
  * ======================================================
  * SYSTEME SOUVERAIN DE CERTIFICATION ANOR
  * SERVER CORE (VERSION ARCHITECTURE HAUTE SÉCURITÉ + PYTORCH AI)
- * Version: 17.9.7 (Inférence PyTorch locale sécurisée & bavarde)
+ * Version: 17.9.8 (Inférence PyTorch locale sécurisée & repli robuste)
  * ======================================================
  */
 
@@ -42,7 +42,7 @@ setInterval(() => {
 // VERSION / CONFIGURATION
 // ======================================================
 
-const SERVER_VERSION = "17.9.7-PYTORCH-SOUVERAIN";
+const SERVER_VERSION = "17.9.8-PYTORCH-SOUVERAIN";
 const VISUAL_VERSION = 1;
 const VISUAL_BITS_LENGTH = 51;
 const isProduction = process.env.NODE_ENV === "production";
@@ -360,7 +360,7 @@ const upload = multer({
 });
 
 // ======================================================
-// ANALYSE VISUELLE CLASSIQUE ET SOUVERAINE (LOCALE)
+// ANALYSE VISUELLE CLASSIQUE ET SOUVERAINE (LOCALE) - SÉCURISÉE
 // ======================================================
 
 async function intelligentVisualAnalysis(scannedMatrix) {
@@ -370,7 +370,10 @@ async function intelligentVisualAnalysis(scannedMatrix) {
 
     if (typeof scannedMatrix === "string") {
         const trimmed = scannedMatrix.trim();
-        if (!trimmed) { return { lot: null, signature: null, bits: null, confidence: 0 }; }
+        // SÉCURITÉ : Empêche d'interpréter une image brute base64 comme une signature textuelle
+        if (!trimmed || trimmed.startsWith("data:image")) { 
+            return { lot: null, signature: null, bits: null, confidence: 0 }; 
+        }
 
         if (trimmed.startsWith("ANOR51:")) {
             const bits = normalizeVisualBits(trimmed.substring(7));
